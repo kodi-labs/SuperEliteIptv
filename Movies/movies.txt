@@ -1,6 +1,6 @@
 <item>
-<title>The amazing spiderman</title>
-<link>https://openload.co/embed/xTFfBoVCI3A</link>
+<title></title>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
