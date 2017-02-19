@@ -21,7 +21,7 @@
 <channel>
 <name>News</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/News/News.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
