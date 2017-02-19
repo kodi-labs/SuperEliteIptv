@@ -4,7 +4,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
 <item>
 <title>USA Network </title>
 <link>http://live.softiptv.com:9900/live/jagdish/jagdish/24894.ts</link>
