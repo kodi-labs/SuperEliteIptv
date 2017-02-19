@@ -29,7 +29,7 @@
 <channel>
 <name>Sports</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/Sports/Sports.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
