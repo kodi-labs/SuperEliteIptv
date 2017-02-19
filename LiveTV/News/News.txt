@@ -1,7 +1,6 @@
 <item>
 <title>CNN</title>
-<link>http://live.softiptv.com:9900/live/jagdish/jagdish/24899.ts
-</link>
+<link>http://live.softiptv.com:9900/live/jagdish/jagdish/24899.ts</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
