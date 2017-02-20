@@ -59,8 +59,8 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>Lifetime East</title>
-<link>http://premium.exabytetv.info/HLSST/2581/2581-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
-<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/042013/lifetime_logo.png?itok=FAGMjdEa</thumbnail>
+<title>Lifetime Movie Network</title>
+<link>http://premium.exabytetv.info/HLSST/12690/12690-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>http://web.ccsu.edu/mediaCenter/images/tv/lifetime-movie-network.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
