@@ -40,3 +40,9 @@
 <thumbnail>http://3.bp.blogspot.com/-Wb2cPPXwOw8/VN05O6NlxeI/AAAAAAAAADA/-fCm9QQHddQ/s1600/foxsp2-2015.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
+<item>
+<title>NBA TV</title>
+<link>http://premium.exabytetv.info/HLSST/2347/2347-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>http://www.3sayi.com/wp-content/uploads/2011/01/Nbatv-200x200.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
