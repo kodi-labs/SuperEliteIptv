@@ -22,3 +22,15 @@
 <thumbnail>http://fontmeme.com/images/MSNBC-Logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
+<item>
+<title>RT America</title>
+<link>http://rt.api.visionip.tv/live/ASHTTP/RT_America-MB/playlist.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1167911174/logo_RTamerica_white.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>France 24</title>
+<link>http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8</link>
+<thumbnail>https://lh6.ggpht.com/BWV0xi-IcYkk6zJavfWi94-Mk4um78GMEJHvlOajbViRTP3Viek7hzjRmzXJJ0gWbm4I=w300</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
