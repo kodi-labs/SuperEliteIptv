@@ -7,7 +7,7 @@
 <name>Entertainment</name>
 <thumbnail>http://www.chromeinfotech.com/industries/images/entertainment-icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/Entertainment/Entertainment.txt</externallink>
-<fanart>http://feelgrafix.com/data_images/out/16/904793-theater-wallpaper.jpg</fanart>
+<fanart>http://www.virgilrevish.com/stage-acting-32321001-1600-1067.jpg</fanart>
 <info></info>
 </channel>
 
