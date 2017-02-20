@@ -2,6 +2,6 @@
 <title>Captain America: Civil War</title>
 <link>https://lh3.googleusercontent.com/t3df9XPyrLmvTQayebfT_T9YbW22IUgJnkb95T6z3Y-BTENArm3fJP37c493Q78YT0UqYmrChg=m37</link>
 <thumbnail>http://static.rogerebert.com/uploads/movie/movie_poster/captain-america-civil-war-2016/large_large_5N20rQURev5CNDcMjHVUZhpoCNC.jpg</thumbnail>
-<fanart>https://images.alphacoders.com/669/669681.jpg</fanart>
+<fanart>http://fightinginthewarroom.com/wp-content/uploads/2016/05/Captain-America-Civil-War-Key-Art-1.jpg</fanart>
 <info>Political pressure mounts to install a system of accountability when the actions of the Avengers lead to collateral damage. The new status quo deeply divides members of the team. Captain America (Chris Evans) believes superheroes should remain free to defend humanity without government interference. Iron Man (Robert Downey Jr.) sharply disagrees and supports oversight. As the debate escalates into an all-out feud, Black Widow (Scarlett Johansson) and Hawkeye (Jeremy Renner) must pick a side. </info>
 </item>
