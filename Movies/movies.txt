@@ -5,3 +5,17 @@
 <fanart>https://images.alphacoders.com/669/669681.jpg</fanart>
 <info>Political pressure mounts to install a system of accountability when the actions of the Avengers lead to collateral damage. The new status quo deeply divides members of the team. Captain America (Chris Evans) believes superheroes should remain free to defend humanity without government interference. Iron Man (Robert Downey Jr.) sharply disagrees and supports oversight. As the debate escalates into an all-out feud, Black Widow (Scarlett Johansson) and Hawkeye (Jeremy Renner) must pick a side. </info>
 </item>
+<item>
+<title>Teenage Mutant Ninja Turtles: Out of the Shadows</title>
+<link>https://lh3.googleusercontent.com/J8StJt3FpjXu5N_kEpDcq5hgMfF9LWnXrEvahnKTjlhN5CyEWfHOgJ7JI4gfq0-sepvNS577Yg=m37</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7b/Teenage_Mutant_Ninja_Turtles_Out_of_the_Shadows_poster.jpg</thumbnail>
+<fanart>http://s3-us-west-1.amazonaws.com/mediastinger/wp-content/uploads/2016/06/03102611/Teenage-Mutant-Ninja-Turtles-Out-of-the-Shadows-2016-after-credits-hq.jpg</fanart>
+<info>After facing Shredder, who has joined forces with mad scientist Baxter Stockman and henchmen Bebop and Rocksteady to take over the world, the Turtles must confront an even greater nemesis: the notorious Krang.</info>
+</item>
+<item>
+<title>The Legend of Tarzan</title>
+<link>https://lh3.googleusercontent.com/4MRHM0b6OMTjqNLJJ22HKPeEXfY1V1CXY_RSV56lAwZX1T3woDMHT6PHZNQFqa37wRDs2z5T4g=m37</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e5/The_Legend_of_Tarzan_poster.jpg</thumbnail>
+<fanart>http://www.geeksundergrace.com/wp-content/uploads/2016/07/alexander_skarsgard_margot_robbie_the_legend_of_tarzan-HD.jpg</fanart>
+<info>Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment.</info>
+</item>
