@@ -4,5 +4,11 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+<item>
+<title>Bravo</title>
+<link>http://213.171.204.52/live/usa/chunklist/9029448c5109e46e44ae6e78a6e50095.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
