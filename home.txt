@@ -6,7 +6,7 @@
 <name>Live TV</name>
 <thumbnail>https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Live_TV.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/LiveTV.txt</externallink>
-<fanart>http://bento.cdn.pbs.org/hostedbento-prod/filer_public/Theatre%20Buildings/093.jpg</fanart>
+<fanart>http://inoustudio.com/wp-content/uploads/2014/09/Home-Theater-Drapes-red-home-theatere-wallpapers-1024x640.jpg</fanart>
 <info> </info>
 </channel>
 
@@ -14,7 +14,7 @@
 <name>Movies</name>
 <thumbnail>http://downloadicons.net/sites/default/files/movies-icon-27923.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/Movies/movies.txt</externallink>
-<fanart>http://bento.cdn.pbs.org/hostedbento-prod/filer_public/Theatre%20Buildings/093.jpg</fanart>
+<fanart>http://inoustudio.com/wp-content/uploads/2014/09/Home-Theater-Drapes-red-home-theatere-wallpapers-1024x640.jpg</fanart>
 <info> </info>
 </channel>
 
@@ -22,7 +22,7 @@
 <name>Kids</name>
 <thumbnail>http://daily-devotional.org/wp-content/uploads/2016/10/15517160600_8f5cdf7816_o.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/Kids/Kids.txt</externallink>
-<fanart>http://bento.cdn.pbs.org/hostedbento-prod/filer_public/Theatre%20Buildings/093.jpg</fanart>
+<fanart>http://inoustudio.com/wp-content/uploads/2014/09/Home-Theater-Drapes-red-home-theatere-wallpapers-1024x640.jpg</fanart>
 <info> </info>
 </channel>
 
