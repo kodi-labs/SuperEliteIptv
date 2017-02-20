@@ -36,7 +36,7 @@
 </item>
 <item>
 <title>The CW</title>
-<link>http://213.171.204.52/live/usa/chunklist/71d5f74e4ff63d74f620b14b6212b067.m3u8</link>
+<link>http://167.114.102.27/live/m08j10eN0Yn_dRYJmpDSKA/1487610368/296e56c668bc8bd6b0044d3e4f034153.m3u8</link>
 <thumbnail>https://www.brandeps.com/logo-download/T/The-CW-01.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
