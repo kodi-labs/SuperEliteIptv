@@ -96,7 +96,7 @@
 </item>
 <item>
 <title>British Eurosport 1</title>
-<link>http://149.202.207.8:8080/kuLlieenuBEerr0NeBuxxooNatn/Strm/index.m3u8</link>
+<link>http://shadow.go.ro/sdwnet/gett.php/91.212.150.27/live/239980.m3u8</link>
 <thumbnail>https://partner.ulango.tv/uploads/channels/139954/logo_british%20eurosport%201.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
