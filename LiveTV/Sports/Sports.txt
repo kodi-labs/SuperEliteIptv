@@ -103,13 +103,13 @@
 <item>
 <title>TSN Sports 3</title>
 <link>http://premium.exabytetv.info/gc/UWRTF-1011000101101100101111100110100-ExabyteTV/1580/exabytetv.m3u8</link>
-<thumbnail>http://www.nwtel.ca/sites/default/files/media/channel-logos/tsn3_0.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-lJR1aUCx4vo/VQp0Xbp_2kI/AAAAAAAAOLY/NJQyPNWJDP8/s1600/WWE-logo-400-700x351.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>TSN Sports 4</title>
 <link>http://premium.exabytetv.info/gc/UWRTF-1011000101101100101111100110100-ExabyteTV/1581/exabytetv.m3u8</link>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/d/db/TSN4.png/revision/latest?cb=20140901044047</thumbnail>
+<thumbnail>http://www.nwtel.ca/sites/default/files/media/channel-logos/tsn3_0.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
