@@ -1,6 +1,6 @@
 <item>
-<title>Vevo</title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Cartoon Network</title>
+<link>http://213.171.204.52/live/usa/chunklist/b33afb2531997bf0ea9bc77630950b98.m3u8</link>
+<thumbnail>http://www.cartoonnetwork.com/static/images/global/ogLogo.png</thumbnail>
 <fanart></fanart>
 </item>
