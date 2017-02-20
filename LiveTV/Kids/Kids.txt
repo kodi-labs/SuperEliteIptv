@@ -10,3 +10,27 @@
 <thumbnail>https://tvbtn.files.wordpress.com/2014/05/image1-350x197.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
+<item>
+<title>Nick East</title>
+<link>http://premium.exabytetv.info/HLSST/1701/1701-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>http://www.shescribes.com/wp-content/uploads/2016/01/Nickelodeon-logo1.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>Nick Jr</title>
+<link>http://premium.exabytetv.info/HLSST/4872/4872-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>http://home.bt.com/images/NickJnr-136407824291402601</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>Disney Jr</title>
+<link>http://premium.exabytetv.info/HLSST/4852/4852-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>http://logovector.net/wp-content/uploads/2012/04/353559-disney-junior-logo.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>Disney XD</title>
+<link>http://premium.exabytetv.info/HLSST/4860/4860-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>http://fontmeme.com/images/disney-xd-logo.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
