@@ -22,5 +22,12 @@
 <thumbnail>http://www.jackgreenrealty.com/wp-content/uploads/2016/06/CBS-New-York-300x202.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
+<item>
+<title>Comedy Central East</title>
+<link>http://premium.exabytetv.info/HLSST/2575/2575-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>http://logos-vector.com/images/logo/xxl/2/1/4/21482/Comedy_Central_550aa_450x450.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+
 
 
