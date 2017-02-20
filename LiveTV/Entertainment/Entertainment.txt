@@ -1,13 +1,13 @@
 <item>
 <title>AandE</title>
 <link>http://premium.exabytetv.info/HLSST/995/995-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0022/5028/brand.gif?itok=XCNQ6qLT</thumbnail>
 <fanart></fanart>
 </item>
 <item>
 <title>Bravo</title>
-<link>http://213.171.204.52/live/usa/chunklist/9029448c5109e46e44ae6e78a6e50095.m3u8</link>
-<thumbnail></thumbnail>
+<link>http://premium.exabytetv.info/HLSST/4890/4890-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>http://seeklogo.com/images/B/bravo-logo-07CB28CA27-seeklogo.com.gif</thumbnail>
 <fanart></fanart>
 </item>
 
