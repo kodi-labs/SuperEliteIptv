@@ -46,3 +46,21 @@
 <thumbnail>http://www.3sayi.com/wp-content/uploads/2011/01/Nbatv-200x200.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
+<item>
+<title>NBC Golf</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>https://pbs.twimg.com/profile_images/785574290120998912/VXtCxyNs.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>NBC Sport Network</title>
+<link>http://premium.exabytetv.info/HLSST/6302/6302-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/40/9e/6f/409e6f37b7fbb58df57d6c27489241af.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>NFL Network</title>
+<link>http://premium.exabytetv.info/HLSST/1003/1003-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>http://pixel.nymag.com/imgs/daily/sports/2012/08/16/17-nfl-network-logo.w190.h190.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
