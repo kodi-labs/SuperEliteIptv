@@ -28,3 +28,15 @@
 <thumbnail>https://media.glassdoor.com/sqll/473897/mlb-network-squarelogo-1449151391318.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
+<item>
+<title>Fox Sports 1</title>
+<link>http://premium.exabytetv.info/gc/UWRTF-1011000101101100101111100110100-ExabyteTV/1820/exabytetv.m3u8</link>
+<thumbnail>https://thepreserve18.com/wp-content/uploads/2016/05/fox-sports1.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>Fox Sports 2</title>
+<link>http://premium.exabytetv.info/gc/UWRTF-1011000101101100101111100110100-ExabyteTV/1821/exabytetv.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-Wb2cPPXwOw8/VN05O6NlxeI/AAAAAAAAADA/-fCm9QQHddQ/s1600/foxsp2-2015.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
