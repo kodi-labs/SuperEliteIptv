@@ -7,8 +7,8 @@
 <name>Entertainment</name>
 <thumbnail>http://www.chromeinfotech.com/industries/images/entertainment-icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/Entertainment/Entertainment.txt</externallink>
-<fanart>http://www.virgilrevish.com/stage-acting-32321001-1600-1067.jpg</fanart>
-<info></info>
+<fanart>http://artinlondonbuilders.com/wp-content/uploads/2014/04/Depositphotos_3516507_original.jpg</fanart>
+<info> </info>
 </channel>
 
 <channel>
@@ -16,7 +16,7 @@
 <thumbnail>http://mallishok.ru/wp-content/uploads/2014/11/%D0%B8%D0%B3%D1%80%D1%83%D1%88%D0%BA%D0%B82.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/Kids/Kids.txt</externallink>
 <fanart>http://feelgrafix.com/data_images/out/16/904793-theater-wallpaper.jpg</fanart>
-<info></info>
+<info> </info>
 </channel>
 
 <channel>
@@ -24,7 +24,7 @@
 <thumbnail>http://www.a1dedicatedservers.com/images/news.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/News/News.txt</externallink>
 <fanart>http://feelgrafix.com/data_images/out/16/904793-theater-wallpaper.jpg</fanart>
-<info></info>
+<info> </info>
 </channel>
 
 <channel>
@@ -32,7 +32,7 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/Sports/Sports.txt</externallink>
 <fanart>http://feelgrafix.com/data_images/out/16/904793-theater-wallpaper.jpg</fanart>
-<info></info>
+<info> </info>
 </channel>
 
 </channels>
