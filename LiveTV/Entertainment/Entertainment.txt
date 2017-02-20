@@ -162,12 +162,6 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
-<title>TNT</title>
-<link>http://premium.exabytetv.info/HLSST/977/977-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
-<thumbnail>http://vignette3.wikia.nocookie.net/tnttoons/images/0/03/TNT_Toons_2nd_Logo.png/revision/latest?cb=20130803172919</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
-</item
-<item>
 <title>TV Land</title>
 <link>http://premium.exabytetv.info/HLSST/9355/9355-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-nk-J7sitdyM/Tw53EcbcV2I/AAAAAAAADxk/8ml5Mbv-9Qc/s1600/TV+Land+logo+2011.jpg</thumbnail>
