@@ -1,6 +1,6 @@
 <item>
 <title>A&E</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&httphttp://premium.exabytetv.info/HLSST/995/995-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<link>http://premium.exabytetv.info/HLSST/995/995-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
