@@ -94,9 +94,3 @@
 <thumbnail>http://www.themarysue.com/wp-content/uploads/2016/08/FX-Logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
-<item>
-<title>HBO 2 East</title>
-<link>http://premium.exabytetv.info/HLSST/216/216-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
-<thumbnail>http://static.ontvtonight.com/static/2/Open/SourceLogos/Cleared%20Logos/HBO/HBO2%20EAST.jpg</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
-</item>
