@@ -11,12 +11,6 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>AMC EAST</title>
-<link>http://premium.exabytetv.info/HLSST/5629/5629-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
-<thumbnail>http://seeklogo.com/images/A/amc-logo-CB07B0BB1E-seeklogo.com.png</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
-</item>
-<item>
 <title>CBS New York</title>
 <link>http://premium.exabytetv.info/HLSST/4865/4865-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
 <thumbnail>http://www.jackgreenrealty.com/wp-content/uploads/2016/06/CBS-New-York-300x202.jpg</thumbnail>
@@ -47,8 +41,3 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>Fox</title>
-<link>http://premium.exabytetv.info/HLSST/413/413-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
-<thumbnail>https://s3-us-west-2.amazonaws.com/dotfeedback-images/6c06f930-e131-4d81-b22a-d143b9d20c49</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
-</item>
