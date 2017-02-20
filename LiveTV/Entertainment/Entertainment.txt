@@ -101,14 +101,51 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>HBO 2 West</title>
-<link>http://premium.exabytetv.info/HLSST/1095/1095-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
-<thumbnail>http://logo-city.org/data_images/4579/A48/101732.png</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
-</item>
-<item>
 <title>HBO Comedy East</title>
 <link>http://premium.exabytetv.info/HLSST/1001/1001-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/Hbo_comedy.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
+<item>
+<title>HBO East</title>
+<link>http://premium.exabytetv.info/HLSST/4765/4765-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>http://www.wemw.it/wp-content/uploads/2016/03/hbo-1024x500.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>Sony Movie Channel</title>
+<link>http://premium.exabytetv.info/HLSST/1101/1101-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/4/4b/Sony_movie_channel.jpg/revision/latest?cb=20110927220649</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>Starz Cinema East</title>
+<link>http://premium.exabytetv.info/HLSST/985/985-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>https://www.starz.com/guides/starzlibrary/logos/stzcinema_2016_vert_wh_rgb.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item
+<item>
+<title>Starz Comedy East</title>
+<link>http://premium.exabytetv.info/HLSST/987/987-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/d/dd/Starz_Comedy_HD.png/revision/latest?cb%5Cx3d20110410040852</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<item>
+<title>Starz Edge East</title>
+<link>http://premium.exabytetv.info/HLSST/983/983-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/5/58/Starz_Edge.jpg/revision/latest?cb=20100919034216</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item
+<item>
+<title>Starz Kids & Family</title>
+<link>http://premium.exabytetv.info/HLSST/1099/1099-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>https://www.starz.com/guides/starzlibrary/images/logo_starzkidsfamily_b.gif</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item
+<item>
+<title>Starz West</title>
+<link>http://premium.exabytetv.info/HLSST/981/981-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>http://logo-city.org/data_images/4336/E4D/100033.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item
