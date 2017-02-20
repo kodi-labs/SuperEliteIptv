@@ -41,8 +41,8 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>Discovery</title>
-<link>http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8</link>
-<thumbnail>https://www.brandeps.com/logo-download/T/The-CW-01.png</thumbnail>
+<title>Food Network East</title>
+<link>http://premium.exabytetv.info/HLSST/172/172-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>https://images.bwwstatic.com/tvnetworklogos/135E0BCF-04A9-D34F-C24B979B54E125EA.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
