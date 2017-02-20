@@ -95,32 +95,44 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>British Eurosport 1</title>
-<link>http://shadow.go.ro/sdwnet/gett.php/91.212.150.27/live/239980.m3u8</link>
-<thumbnail>https://partner.ulango.tv/uploads/channels/139954/logo_british%20eurosport%201.png</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
-</item>
-<item>
-<title>British Eurosport 2</title>
-<link>http://shadow.go.ro/sdwnet/gett.php/178.159.36.30/live/239980.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/_-KoP4glAS6U/S1HmrPiD_sI/AAAAAAAAAE4/rrrjXXx9UfY/w1200-h630-p-nu/british_eurosport2.png</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
-</item>
-<item>
-<title>BT Sport 1</title>
-<link>http://shadow.go.ro/sdwnet/gett.php/91.212.150.27/live/241445.m3u8</link>
-<thumbnail>http://footballontv.com/img/channels/square-300/BT-Sport-1.png</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
-</item>
-<item>
-<title>BT Sport 2</title>
-<link>http://shadow.go.ro/sdwnet/gett.php/91.212.150.27/live/241412.m3u8</link>
-<thumbnail>http://footballontv.com/img/channels/square-300/BT-Sport-2.png</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
-</item>
-<item>
 <title>BT Sport 3</title>
 <link>http://premium.exabytetv.info/gc/UWRTF-1011000101101100101111100110100-ExabyteTV/1811/exabytetv.m3u8</link>
 <thumbnail>http://sport.bt.com/s/assets/ucl/images/btsport3.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>TSN Sports 1</title>
+<link>http://premium.exabytetv.info/gc/UWRTF-1011000101101100101111100110100-ExabyteTV/1578/exabytetv.m3u8</link>
+<thumbnail>https://www.ccapcable.com/lib/upload/2014/11/TSN1_CMYK_1.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>TSN Sports 2</title>
+<link>http://premium.exabytetv.info/gc/UWRTF-1011000101101100101111100110100-ExabyteTV/1579/exabytetv.m3u8</link>
+<thumbnail>https://www.ccapcable.com/lib/upload/2014/11/TSN2_CMYK_1.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>TSN Sports 3</title>
+<link>http://premium.exabytetv.info/gc/UWRTF-1011000101101100101111100110100-ExabyteTV/1580/exabytetv.m3u8</link>
+<thumbnail>http://www.nwtel.ca/sites/default/files/media/channel-logos/tsn3_0.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>TSN Sports 4</title>
+<link>http://premium.exabytetv.info/gc/UWRTF-1011000101101100101111100110100-ExabyteTV/1581/exabytetv.m3u8</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/d/db/TSN4.png/revision/latest?cb=20140901044047</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>TSN Sports 5</title>
+<link>http://premium.exabytetv.info/gc/UWRTF-1011000101101100101111100110100-ExabyteTV/1582/exabytetv.m3u8</link>
+<thumbnail>http://contact.sourcecable.ca/wp-content/uploads/2015/05/TSN5_CMYK.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>WWE Network</title>
+<link>http://premium.exabytetv.info/HLSST/13266/13266-UWRTF-1011000101101100101111100110100-ExabyteTV.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-lJR1aUCx4vo/VQp0Xbp_2kI/AAAAAAAAOLY/NJQyPNWJDP8/s1600/WWE-logo-400-700x351.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
