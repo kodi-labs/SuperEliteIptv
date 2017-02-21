@@ -19,3 +19,24 @@
 <fanart>http://www.geeksundergrace.com/wp-content/uploads/2016/07/alexander_skarsgard_margot_robbie_the_legend_of_tarzan-HD.jpg</fanart>
 <info>Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment.</info>
 </item>
+<item>
+<title>X-Men: Apocalypse</title>
+<link>https://lh3.googleusercontent.com/mOmY6XE3bX-jhwS9hwMdZTfVuGVMmmuNB5QIcADyWJNOjDzZ6VlpEqaT7GcZOr9aVZH0GMgtmA=m37</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/04/X-Men_-_Apocalypse.jpg</thumbnail>
+<fanart>http://static.srcdn.com/wp-content/uploads/x-men-apocalypse-sequel-1990s.jpg</fanart>
+<info>After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.</info>
+</item>
+<item>
+<title>Batman v Superman: Dawn of Justice</title>
+<link>https://lh3.googleusercontent.com/8R0nkFuv1DxzPyHdwx3WB84WGCf06PD2A_p0p5PO3nwhR0ZE2e0ku012zSlPyqVkwSxm6RaBWg=m37</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/20/Batman_v_Superman_poster.jpg</thumbnail>
+<fanart>http://www.mediastinger.com/wp-content/uploads/2016/01/Batman-v-Superman-Dawn-of-Justice-2016-after-credits-hq.jpg</fanart>
+<info>Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.</info>
+</item>
+<item>
+<title>Independence Day: Resurgence</title>
+<link>https://lh3.googleusercontent.com/jMBIYCqrTL6fF4mdnTtXz_kHcChSIP1ThxDLS2hzIgsc-XoCBRHcLaz90ZJoqP4pCDrT6QzxQg=m37</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/58/Independence-Day-2-poster.jpg</thumbnail>
+<fanart>http://s3.foxmovies.com/foxmovies/production/films/107/images/gallery/id4-gallery4-gallery-image.jpg</fanart>
+<info>Two decades after the first Independence Day invasion, Earth is faced with a new extra-Solar threat. But will mankind's new space defenses be enough?</info>
+</item>
