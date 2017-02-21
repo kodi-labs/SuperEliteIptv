@@ -68,3 +68,25 @@
 <fanart>http://s3.amazonaws.com/digitaltrends-uploads-prod/2014/06/transformers-age-of-extinction.jpg</fanart>
 <info>Autobots must escape sight from a bounty hunter who has taken control of the human serendipity: Unexpectedly, Optimus Prime and his remaining gang turn to a mechanic, his daughter, and her back street racing boyfriend for help.</info>
 </item>
+<item>
+<title>Spy</title>
+<link>https://lh3.googleusercontent.com/ZXeW6e9QTcF5LLd-kCj-mBC5m2bfoh36ynX-gMYaIiQu3rmCGnHGyr1Vag_lRBkfPhjoXFU_zg=m37</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5d/Spy2015_TeaserPoster.jpg</thumbnail>
+<fanart>http://jamiebody.com/wp-content/uploads/2015/06/spy4-1024x576.jpg</fanart>
+<info>A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer, and prevent diabolical global disaster.</info>
+</item>
+<item>
+<title>Southpaw</title>
+<link>https://lh3.googleusercontent.com/X5BdeUTmZzy8qGuBqp1t9k__CBhoRSGThRuXywmR1KHsGcS0-hEqKplMGJ5Kidk0Xya8YgTV1w=m37</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/89/Southpaw_poster.jpg</thumbnail>
+<fanart>http://static1.businessinsider.com/image/55a696ea2acae7f4028b6e40-1190-625/new-movie-southpaw-was-created-for-eminem--but-heres-why-the-role-ended-up-going-to-jake-gyllenhaal.jpg</fanart>
+<info>Boxer Billy Hope turns to trainer Tick Wills to help him get his life back on track after losing his wife in a tragic accident and his daughter to child protection services.
+</info>
+</item>
+<item>
+<title>Terminator Genisys</title>
+<link>https://lh3.googleusercontent.com/Nu6br6QiAM58Vm-o5gKnJC4JtBIMfrd3k4knHGsWmNAwoACN7pz-1CHSFIJf9yKqTTwME4KJYw=m37</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/bc/Terminator_Genisys.JPG</thumbnail>
+<fanart>http://s1.1zoom.net/big0/94/Terminator_Genisys_439594.jpg</fanart>
+<info>When John Connor, leader of the human resistance, sends Sgt. Kyle Reese back to 1984 to protect Sarah Connor and safeguard the future, an unexpected turn of events creates a fractured timeline.</info>
+</item>
