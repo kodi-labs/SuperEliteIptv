@@ -40,3 +40,31 @@
 <fanart>http://s3.foxmovies.com/foxmovies/production/films/107/images/gallery/id4-gallery4-gallery-image.jpg</fanart>
 <info>Two decades after the first Independence Day invasion, Earth is faced with a new extra-Solar threat. But will mankind's new space defenses be enough?</info>
 </item>
+<item>
+<title>Deadpool</title>
+<link>https://lh3.googleusercontent.com/oCBco5tPvzegxyy1hmelHoOabNJ3OqCf4qoJ8OcxA9Jq-1vCrwnISeLEeIQUURpfYHRm91qz0A=m37</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyODg5Njc4N15BMl5BanBnXkFtZTgwMzExMjE3NzE@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://s3.foxmovies.com/foxmovies/production/films/103/images/gallery/deadpool-gallery-03-gallery-image.jpg</fanart>
+<info>A fast-talking mercenary with a morbid sense of humor is subjected to a rogue experiment that leaves him with accelerated healing powers and a quest for revenge.</info>
+</item>
+<item>
+<title>Furious 7</title>
+<link>https://lh3.googleusercontent.com/EfpOZhnOqTbcEOTEfTxaZc9CRfb4waKNP4ZgZ7TbvbesTZszz0867sPSL7lu2nuOByIQRtFicg=m37</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81ClciXon2L._SY445_.jpg</thumbnail>
+<fanart>http://i.lv3.hbo.com/assets/images/movies/furious-7/schedule/151208-furious-7-schedule-1920.jpg</fanart>
+<info>Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.</info>
+</item>
+<item>
+<title>Star Wars: Episode VII - The Force Awakens </title>
+<link>https://lh3.googleusercontent.com/QgQWiNUqWveD5Y9XsxIW3-SCiMTsUcqHZOvp5JW9w29csp5Twr1VVRiVLcoSC69-D2vcvloJNQ=m37</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/a/a2/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg</thumbnail>
+<fanart>http://i.imgur.com/jQ96SGk.jpg</fanart>
+<info>Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.</info>
+</item>
+<item>
+<title>Transformers: Age of Extinction</title>
+<link>https://lh3.googleusercontent.com/S0uz-1xkpMrkEDoaQJwqEgnCt3tlUmugGBPmtIejPFAdFUN0S-NKQU1RKnwn9JJw6W650Eisyw=m37</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/94/Transformers_Age_of_Extinction_Poster.jpeg</thumbnail>
+<fanart>http://s3.amazonaws.com/digitaltrends-uploads-prod/2014/06/transformers-age-of-extinction.jpg</fanart>
+<info>Autobots must escape sight from a bounty hunter who has taken control of the human serendipity: Unexpectedly, Optimus Prime and his remaining gang turn to a mechanic, his daughter, and her back street racing boyfriend for help.</info>
+</item>
