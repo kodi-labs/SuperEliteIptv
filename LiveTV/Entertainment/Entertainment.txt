@@ -30,7 +30,7 @@
 </item>
 <item>
 <title>The CW</title>
-<link>http://213.171.204.52/live/usa/chunklist/6dabc8922f08c0c2031c970e20f9b0ee.m3u8</link>
+<link>http://213.171.204.52/live/usa/chunklist/f3843ef6bfb30ee717a9efaca7f2aa3e.m3u8</link>
 <thumbnail>https://www.brandeps.com/logo-download/T/The-CW-01.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -72,7 +72,7 @@
 </item>
 <item>
 <title>NBC New York</title>
-<link>http://premium.exabytetv.info/HLSST/12713/12713-LUXJA-1011000110111010010111010110111-ExabyteTV.m3u8</link>
+<link>http://premium.exabytetv.info/HLSST/8491/8491-LUXJA-1011000110111010010111010110111-ExabyteTV.m3u8</link>
 <thumbnail>http://farmerstel.com/images/app_desktop/nbc_icon.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
