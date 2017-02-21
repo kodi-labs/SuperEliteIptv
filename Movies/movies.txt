@@ -90,3 +90,10 @@
 <fanart>http://s1.1zoom.net/big0/94/Terminator_Genisys_439594.jpg</fanart>
 <info>When John Connor, leader of the human resistance, sends Sgt. Kyle Reese back to 1984 to protect Sarah Connor and safeguard the future, an unexpected turn of events creates a fractured timeline.</info>
 </item>
+<item>
+<title>Dawn of the Planet of the Apes</title>
+<link>https://lh3.googleusercontent.com/l8BmPVNgjsMpus8TUSd7HC-Ry6JyNzwEfcKXvlA68LBa3y5vzvhbKr9IpzwXxd4jrmxICaWs8A=m37</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/7/77/Dawn_of_the_Planet_of_the_Apes.jpg</thumbnail>
+<fanart>http://cdn.collider.com/wp-content/uploads/dawn-of-the-planet-of-the-apes-caesar-hold.jpg</fanart>
+<info>A growing nation of genetically evolved apes led by Caesar is threatened by a band of human survivors of the devastating virus unleashed a decade earlier.</info>
+</item>
