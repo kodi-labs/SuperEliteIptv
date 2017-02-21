@@ -1,6 +1,22 @@
 <item>
-<title>Vevo</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>Kung Fu Panda 3</title>
+<link>https://lh3.googleusercontent.com/JZOfASzS13SOd74buA_zrX-AJt9vhzi-JisdLnnmivnuELSKEEmFjU2BiKpbkl17VCJB9tv2zg=m37</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e6/Kung_Fu_Panda_3_poster.jpg</thumbnail>
+<fanart>http://www.kungfupandamovie-ph.com/img/main/background.jpg</fanart>
+<info>Continuing his "legendary adventures of awesomeness", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to his home.</info>
 </item>
+<item>
+<title>Ice Age: Collision Course</title>
+<link>https://lh3.googleusercontent.com/bFPXibmMAlKxkiD-wkgjq2IG-0gxXGzle466-jhIWtLksEW4wHsYYPTCgEc4d42s1uXjfXeP_A=m37</link>
+<thumbnail>http://s3.foxmovies.com/foxmovies/production/films/116/images/posters/481-film-page-large.jpg</thumbnail>
+<fanart>http://www.hdwallpapers.in/walls/ice_age_collision_course_5k-wide.jpg</fanart>
+<info>Manny, Diego, and Sid join up with Buck to fend off a meteor strike that would destroy the world.</info>
+</item>
+<item>
+<title>Ice Age: Collision Course</title>
+<link>https://lh3.googleusercontent.com/bFPXibmMAlKxkiD-wkgjq2IG-0gxXGzle466-jhIWtLksEW4wHsYYPTCgEc4d42s1uXjfXeP_A=m37</link>
+<thumbnail>http://s3.foxmovies.com/foxmovies/production/films/116/images/posters/481-film-page-large.jpg</thumbnail>
+<fanart>http://www.hdwallpapers.in/walls/ice_age_collision_course_5k-wide.jpg</fanart>
+<info>Manny, Diego, and Sid join up with Buck to fend off a meteor strike that would destroy the world.</info>
+</item>
+
