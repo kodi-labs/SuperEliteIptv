@@ -18,25 +18,25 @@
 </item>
 <item>
 <title>MLB Network</title>
-<link>http://premium.exabytetv.info/HLSST/192/192-LUXJA-1011000110111010010111010110111-ExabyteTV.m3u8</link>
+<link>http://premium.exabytetv.info/HLSST/192/192-CAOJO-1011000101110101011011111010100-ExabyteTV.m3u8</link>
 <thumbnail>https://media.glassdoor.com/sqll/473897/mlb-network-squarelogo-1449151391318.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Fox Sports 1</title>
-<link>http://premium.exabytetv.info/gc/LUXJA-1011000110111010010111010110111-ExabyteTV/1820/exabytetv.m3u8</link>
+<link>http://premium.exabytetv.info/gc/CAOJO-1011000101110101011011111010100-ExabyteTV/1820/exabytetv.m3u8</link>
 <thumbnail>https://thepreserve18.com/wp-content/uploads/2016/05/fox-sports1.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Fox Sports 2</title>
-<link>http://premium.exabytetv.info/gc/LUXJA-1011000110111010010111010110111-ExabyteTV/1821/exabytetv.m3u8</link>
+<link>http://premium.exabytetv.info/gc/CAOJO-1011000101110101011011111010100-ExabyteTV/1821/exabytetv.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-Wb2cPPXwOw8/VN05O6NlxeI/AAAAAAAAADA/-fCm9QQHddQ/s1600/foxsp2-2015.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NBA TV</title>
-<link>http://premium.exabytetv.info/HLSST/2347/2347-LUXJA-1011000110111010010111010110111-ExabyteTV.m3u8</link>
+<link>http://premium.exabytetv.info/HLSST/2347/2347-CAOJO-1011000101110101011011111010100-ExabyteTV.m3u8</link>
 <thumbnail>http://www.3sayi.com/wp-content/uploads/2011/01/Nbatv-200x200.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -48,31 +48,31 @@
 </item>
 <item>
 <title>NBC Sport Network</title>
-<link>http://premium.exabytetv.info/HLSST/6302/6302-LUXJA-1011000110111010010111010110111-ExabyteTV.m3u8</link>
+<link>http://premium.exabytetv.info/HLSST/6302/6302-CAOJO-1011000101110101011011111010100-ExabyteTV.m3u8</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/40/9e/6f/409e6f37b7fbb58df57d6c27489241af.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NFL Network</title>
-<link>http://premium.exabytetv.info/HLSST/1003/1003-LUXJA-1011000110111010010111010110111-ExabyteTV.m3u8</link>
+<link>http://premium.exabytetv.info/HLSST/1003/1003-CAOJO-1011000101110101011011111010100-ExabyteTV.m3u8</link>
 <thumbnail>http://pixel.nymag.com/imgs/daily/sports/2012/08/16/17-nfl-network-logo.w190.h190.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NHL Network</title>
-<link>http://premium.exabytetv.info/HLSST/194/194-LUXJA-1011000110111010010111010110111-ExabyteTV.m3u8</link>
+<link>http://premium.exabytetv.info/HLSST/194/194-CAOJO-1011000101110101011011111010100-ExabyteTV.m3u8</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/a/ae/Md_nhl_logo.jpg/revision/latest?cb=20150903001526</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CBS Sports Network</title>
-<link>http://premium.exabytetv.info/HLSST/2359/2359-LUXJA-1011000110111010010111010110111-ExabyteTV.m3u8</link>
+<link>http://premium.exabytetv.info/HLSST/2359/2359-CAOJO-1011000101110101011011111010100-ExabyteTV.m3u8</link>
 <thumbnail>https://cbsnewyork.files.wordpress.com/2011/08/cbs-sports-logo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>BT Sport Espn</title>
-<link>http://premium.exabytetv.info/gc/LUXJA-1011000110111010010111010110111-ExabyteTV/1573/exabytetv.m3u8</link>
+<link>http://premium.exabytetv.info/gc/CAOJO-1011000101110101011011111010100-ExabyteTV/1573/exabytetv.m3u8</link>
 <thumbnail>http://seenit.co.uk/wp-content/uploads/BT-ESPN.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -96,25 +96,25 @@
 </item>
 <item>
 <title>BT Sport 3</title>
-<link>http://premium.exabytetv.info/gc/LUXJA-1011000110111010010111010110111-ExabyteTV/1811/exabytetv.m3u8</link>
+<link>http://premium.exabytetv.info/gc/CAOJO-1011000101110101011011111010100-ExabyteTV/1811/exabytetv.m3u8</link>
 <thumbnail>http://sport.bt.com/s/assets/ucl/images/btsport3.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>TSN Sports 3</title>
-<link>http://premium.exabytetv.info/gc/LUXJA-1011000110111010010111010110111-ExabyteTV/1580/exabytetv.m3u8</link>
+<link>http://premium.exabytetv.info/gc/CAOJO-1011000101110101011011111010100-ExabyteTV/1580/exabytetv.m3u8</link>
 <thumbnail>http://www.nwtel.ca/sites/default/files/media/channel-logos/tsn3_0.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>TSN Sports 4</title>
-<link>http://premium.exabytetv.info/gc/LUXJA-1011000110111010010111010110111-ExabyteTV/1581/exabytetv.m3u8</link>
+<link>http://premium.exabytetv.info/gc/CAOJO-1011000101110101011011111010100-ExabyteTV/1581/exabytetv.m3u8</link>
 <thumbnail>http://www.nwtel.ca/sites/default/files/media/channel-logos/tsn3_0.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>WWE Network</title>
-<link>http://premium.exabytetv.info/HLSST/13266/13266-LUXJA-1011000110111010010111010110111-ExabyteTV.m3u8</link>
+<link>http://premium.exabytetv.info/HLSST/13266/13266-CAOJO-1011000101110101011011111010100-ExabyteTV.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-lJR1aUCx4vo/VQp0Xbp_2kI/AAAAAAAAOLY/NJQyPNWJDP8/s1600/WWE-logo-400-700x351.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
