@@ -11,19 +11,19 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>CBS East</title>
+<title>CBS</title>
 <link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/8.ts</link>
 <thumbnail>https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>Comedy Central East</title>
+<title>Comedy Central</title>
 <link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/316.ts</link>
 <thumbnail>http://logos-vector.com/images/logo/xxl/2/1/4/21482/Comedy_Central_550aa_450x450.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>ABC East</title>
+<title>ABC</title>
 <link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/10.ts</link>
 <thumbnail>http://cdn1.ssninsider.com/wp-content/uploads/2014/05/abc-logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
@@ -35,7 +35,7 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>Food Network East</title>
+<title>Food Network</title>
 <link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/333.ts</link>
 <thumbnail>https://images.bwwstatic.com/tvnetworklogos/135E0BCF-04A9-D34F-C24B979B54E125EA.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
@@ -71,7 +71,7 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>NBC East</title>
+<title>NBC</title>
 <link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/7.ts</link>
 <thumbnail>http://cdn-6.famouslogos.us/images/nbc-logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
@@ -89,25 +89,25 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>FX East</title>
+<title>FX</title>
 <link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/314.ts</link>
 <thumbnail>http://www.themarysue.com/wp-content/uploads/2016/08/FX-Logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>HBO Comedy East</title>
+<title>HBO Comedy</title>
 <link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/373.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/Hbo_comedy.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>HBO East</title>
+<title>HBO</title>
 <link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/371.ts</link>
 <thumbnail>http://www.wemw.it/wp-content/uploads/2016/03/hbo-1024x500.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>HBO Signature East</title>
+<title>HBO Signature</title>
 <link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/372.ts</link>
 <thumbnail>http://gmkfreelogos.com/logos/H/img/HBO_Signature.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
@@ -119,14 +119,14 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
-<title>Starz Comedy East</title>
+<title>Starz Comedy</title>
 <link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/376.ts</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/d/dd/Starz_Comedy_HD.png/revision/latest?cb%5Cx3d20110410040852</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <item>
-<title>Starz Edge East</title>
+<title>Starz Edge</title>
 <link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/377.ts</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/5/58/Starz_Edge.jpg/revision/latest?cb=20100919034216</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
@@ -138,7 +138,7 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
-<title>Starz East</title>
+<title>Starz</title>
 <link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/374.ts</link>
 <thumbnail>http://logo-city.org/data_images/4336/E4D/100033.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
@@ -162,7 +162,7 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
-<title>USA Network East</title>
+<title>USA Network</title>
 <link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/312.ts</link>
 <thumbnail>https://images.bwwstatic.com/columnpic6/24BBCD1DC-0C7F-5F83-A9B18707E9842A5E.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
