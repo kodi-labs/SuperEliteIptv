@@ -1,31 +1,31 @@
 <item>
 <title>AandE</title>
-<link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/347.m3u8</link>
+<link>http://premium.exabytetv.info/HLSST/995/995-CAOJO-1011000101110101011011111010100-ExabyteTV.m3u8</link>
 <thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0022/5028/brand.gif?itok=XCNQ6qLT</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Bravo</title>
-<link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/353.m3u8</link>
+<link>http://premium.exabytetv.info/HLSST/4890/4890-CAOJO-1011000101110101011011111010100-ExabyteTV.m3u8</link>
 <thumbnail>http://seeklogo.com/images/B/bravo-logo-07CB28CA27-seeklogo.com.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CBS East</title>
-<link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/8.m3u8</link>
-<thumbnail>http://www.jackgreenrealty.com/wp-content/uploads/2016/06/CBS-New-York-300x202.jpg</thumbnail>
+<link>http://premium.exabytetv.info/HLSST/4865/4865-CAOJO-1011000101110101011011111010100-ExabyteTV.m3u8</link>
+<thumbnail>https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Comedy Central East</title>
-<link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/316.m3u8</link>
+<link>http://premium.exabytetv.info/HLSST/2575/2575-CAOJO-1011000101110101011011111010100-ExabyteTV.m3u8</link>
 <thumbnail>http://logos-vector.com/images/logo/xxl/2/1/4/21482/Comedy_Central_550aa_450x450.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>ABC East</title>
-<link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/10.m3u8</link>
-<thumbnail>http://aaja.org/chapters/newyork/wp-content/uploads/2013/05/NEW_ABC7_CMYK-FOR-PRINT-300.jpg</thumbnail>
+<link>http://premium.exabytetv.info/HLSST/12713/12713-CAOJO-1011000101110101011011111010100-ExabyteTV.m3u8</link>
+<thumbnail>http://cdn1.ssninsider.com/wp-content/uploads/2014/05/abc-logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
@@ -36,7 +36,7 @@
 </item>
 <item>
 <title>Food Network East</title>
-<link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/333.m3u8</link>
+<link>http://premium.exabytetv.info/HLSST/172/172-CAOJO-1011000101110101011011111010100-ExabyteTV.m3u8</link>
 <thumbnail>https://images.bwwstatic.com/tvnetworklogos/135E0BCF-04A9-D34F-C24B979B54E125EA.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
