@@ -1,12 +1,12 @@
 <item>
 <title>CNN</title>
-<link>http://premium.exabytetv.info/HLSST/3133/3133-CAOJO-1011000101110101011011111010100-ExabyteTV.m3u8</link>
+<link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/360.ts</link>
 <thumbnail>http://bammarijuana.com/wp-content/uploads/2016/02/CNN-International-Logo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CBS News</title>
-<link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-b.m3u8</link>
+<link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/3078.ts</link>
 <thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0020/8236/brand.gif?itok=5lWbG2hW</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -18,7 +18,7 @@
 </item>
 <item>
 <title>MSNBC</title>
-<link>http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8</link>
+<link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/365.ts</link>
 <thumbnail>http://fontmeme.com/images/MSNBC-Logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -31,6 +31,24 @@
 <item>
 <title>France 24</title>
 <link>http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8</link>
+<thumbnail>https://lh6.ggpht.com/BWV0xi-IcYkk6zJavfWi94-Mk4um78GMEJHvlOajbViRTP3Viek7hzjRmzXJJ0gWbm4I=w300</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>Fox News</title>
+<link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/363.ts</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/67/Fox_News_Channel_logo.svg/revision/latest/scale-to-width-down/200?cb=20091120214359</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>Fox Business</title>
+<link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/4600.ts</link>
+<thumbnail>https://lh6.ggpht.com/BWV0xi-IcYkk6zJavfWi94-Mk4um78GMEJHvlOajbViRTP3Viek7hzjRmzXJJ0gWbm4I=w300</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>ESPN News</title>
+<link>http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/4065.ts</link>
 <thumbnail>https://lh6.ggpht.com/BWV0xi-IcYkk6zJavfWi94-Mk4um78GMEJHvlOajbViRTP3Viek7hzjRmzXJJ0gWbm4I=w300</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
