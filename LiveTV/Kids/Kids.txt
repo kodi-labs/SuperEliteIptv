@@ -1,6 +1,6 @@
 <item>
 <title>Cartoon Network</title>
-<link>http://127.0.0.1:55333/ok1.se:8000/live/matthewnweist@jourrapide.com/gkvpsmea/395.ts</link>
+<link>http://ok1.se:8000/live/matthewnweist@jourrapide.com/matthewnweist@jourrapide.com/395.ts</link>
 <thumbnail>http://www.cartoonnetwork.com/static/images/global/ogLogo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
