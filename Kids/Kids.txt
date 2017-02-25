@@ -1,6 +1,6 @@
 <item>
 <title>Kung Fu Panda 3</title>
-<link>https://lh3.googleusercontent.com/uJblx4j95CtTlyVjF9uKsYDzHEqXbEdr6Ebm5HaXtVPsLxTOL5Je9xGm3hx8be4kpYKfrN43Kw=m37</link>
+<link>https://lh3.googleusercontent.com/_b5AWSjMxfFcbLxxN6u6ldg9YhXu4URpZ-mCBXDQWpnpJSRDkg3J6waq__9fdYu26PI_xJwgjQ=m37</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e6/Kung_Fu_Panda_3_poster.jpg</thumbnail>
 <fanart>http://www.kungfupandamovie-ph.com/img/main/background.jpg</fanart>
 <info>Continuing his "legendary adventures of awesomeness", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to his home.</info>
