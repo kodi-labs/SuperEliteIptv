@@ -1,6 +1,6 @@
 <item>
 <title>Cartoon Network</title>
-<link>http://127.0.0.1:55333/callbackpath=&use;_proxy_for_chunks=True&streamtype;=TSDOWNLOADER&maxbitrate;=0&proxy;=None&callbackparam;=&url;=http://ok2.se:8000/live/philcturner@jourrapide.com/mcqsvdrg/395.ts</link>
+<link>http://127.0.0.1:55333/callbackpath=&use;_proxy_for_chunks=True&streamtype;=TSDOWNLOADER&maxbitrate;=0&proxy;=None&callbackparam;=&url;=http://ok2.se:8000/live/matthewnweist@jourrapide.com/gkvpsmea/395.ts</link>
 <thumbnail>http://www.cartoonnetwork.com/static/images/global/ogLogo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
