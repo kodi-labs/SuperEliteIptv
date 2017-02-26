@@ -1,6 +1,6 @@
 <item>
 <title>Cartoon Network</title>
-<link>http://ok1.se:8000/live/ jamesbpoulin@armyspy.com / ekfjrntk /395.ts</link>
+<link>http://ok2.se:8000/live/jamesbpoulin@armyspy.com/ekfjrntk /395.ts</link>
 <thumbnail>http://www.cartoonnetwork.com/static/images/global/ogLogo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
