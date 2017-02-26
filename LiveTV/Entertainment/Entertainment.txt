@@ -356,7 +356,7 @@
 </item
 <item>
 <title>Starz</title>
-<link>http://ok1.se:8000/live/ gaylejstarkes@rhyta.com / xzbwryjq /374.m3u8</link>
+<link>http://ok1.se:8000/live/ jamesbpoulin@armyspy.com / ekfjrntk /374.m3u8</link>
 <thumbnail>http://logo-city.org/data_images/4336/E4D/100033.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
@@ -368,43 +368,43 @@
 </item
 <item>
 <title>TLC</title>
-<link>http://ok1.se:8000/live/ gaylejstarkes@rhyta.com / xzbwryjq /328.m3u8</link>
+<link>http://ok1.se:8000/live/ jamesbpoulin@armyspy.com / ekfjrntk /328.m3u8</link>
 <thumbnail>http://bloodstonemediagroup.com/wp-content/uploads/2015/08/TLC_Logo_Cake_Boss_edited-1.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
 <title>TV Land</title>
-<link>http://ok1.se:8000/live/ gaylejstarkes@rhyta.com / xzbwryjq /313.m3u8</link>
+<link>http://ok1.se:8000/live/ jamesbpoulin@armyspy.com / ekfjrntk /313.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-nk-J7sitdyM/Tw53EcbcV2I/AAAAAAAADxk/8ml5Mbv-9Qc/s1600/TV+Land+logo+2011.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
 <title>USA Network</title>
-<link>http://ok1.se:8000/live/ gaylejstarkes@rhyta.com / xzbwryjq /312.m3u8</link>
+<link>http://ok1.se:8000/live/ jamesbpoulin@armyspy.com / ekfjrntk /312.m3u8</link>
 <thumbnail>https://images.bwwstatic.com/columnpic6/24BBCD1DC-0C7F-5F83-A9B18707E9842A5E.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
 <title>The Weather Channel</title>
-<link>http://ok1.se:8000/live/ gaylejstarkes@rhyta.com / xzbwryjq /3080.ts</link>
+<link>http://ok1.se:8000/live/ jamesbpoulin@armyspy.com / ekfjrntk /3080.ts</link>
 <thumbnail>https://lh6.ggpht.com/hGnzb0TzcUKDC63BIxs-x0wig5iq7SJd7F1iSRBywX3fbKyLoMDZWAsJJNxyOx9F1rUk=w300</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
 <title>Univision</title>
-<link>http://ok1.se:8000/live/ gaylejstarkes@rhyta.com / xzbwryjq /412.ts</link>
+<link>http://ok1.se:8000/live/ jamesbpoulin@armyspy.com / ekfjrntk /412.ts</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/98/7e/06/987e0642c10a6219b5b68fd11506e436.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
 <title>Telemundo</title>
-<link>http://ok1.se:8000/live/ gaylejstarkes@rhyta.com / xzbwryjq /415.ts</link>
+<link>http://ok1.se:8000/live/ jamesbpoulin@armyspy.com / ekfjrntk /415.ts</link>
 <thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/032013/tm_master_large_id_rgb_reverse.png?itok=OU-NDXlb</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
 <title>Unimas</title>
-<link>http://ok1.se:8000/live/ gaylejstarkes@rhyta.com / xzbwryjq /425.ts</link>
+<link>http://ok1.se:8000/live/ jamesbpoulin@armyspy.com / ekfjrntk /425.ts</link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/unimas_logo_detail.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
