@@ -1,102 +1,102 @@
 <item>
 <title>ESPN</title>
-<link>http://ok1.se:8000/live/charleslpeterson@jourrapide.com/ydxmbunc/143.m3u8</link>
+<link>http://ok2.se:8000/live/ kathryndalaniz@rhyta.com / wubtbanq /143.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/629351437676511232/PnAYQDx8.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>ESPN 2</title>
-<link>http://ok1.se:8000/live/roderickbtownsel@jourrapide.com/kdgsxzwa/144.m3u8</link>
+<link>http://ok1.se:8000/live/ roderickbtownsel@jourrapide.com / kdgsxzwa /144.m3u8</link>
 <thumbnail>http://images.mi.tv/channels/co_espn-2_m.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Bein Sports</title>
-<link>http://ok1.se:8000/live/roderickbtownsel@jourrapide.com/kdgsxzwa /171.m3u8</link>
+<link>http://ok1.se:8000/live/ roderickbtownsel@jourrapide.com / kdgsxzwa /171.m3u8</link>
 <thumbnail>http://anywhere.fm/wp-content/uploads/bein-sports.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>ESPN U</title>
-<link>http://ok1.se:8000/live/roderickbtownsel@jourrapide.com/kdgsxzwa /4064.m3u8</link>
+<link>http://ok1.se:8000/live/ roderickbtownsel@jourrapide.com / kdgsxzwa /4064.m3u8</link>
 <thumbnail>http://c767204.r4.cf2.rackcdn.com/536b3646-abaf-449e-bae4-b584b92215ff.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NBA League Pass 1</title>
-<link>http://ok1.se:8000/live/roderickbtownsel@jourrapide.com/kdgsxzwa /2190.m3u8</link>
+<link>http://ok1.se:8000/live/ roderickbtownsel@jourrapide.com / kdgsxzwa /2190.m3u8</link>
 <thumbnail>http://www.sportsvideo.org/new/wp-content/uploads/2016/10/NBA-League-Pass.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NBA League Pass 2</title>
-<link>http://ok1.se:8000/live/roderickbtownsel@jourrapide.com/kdgsxzwa /2191.m3u8</link>
+<link>http://ok1.se:8000/live/ roderickbtownsel@jourrapide.com / kdgsxzwa /2191.m3u8</link>
 <thumbnail>http://www.sportsvideo.org/new/wp-content/uploads/2016/10/NBA-League-Pass.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NBA League Pass 3</title>
-<link>http://ok1.se:8000/live/roderickbtownsel@jourrapide.com/kdgsxzwa /2192.m3u8</link>
+<link>http://ok1.se:8000/live/ roderickbtownsel@jourrapide.com / kdgsxzwa /2192.m3u8</link>
 <thumbnail>http://www.sportsvideo.org/new/wp-content/uploads/2016/10/NBA-League-Pass.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NBA League Pass 4</title>
-<link>http://ok1.se:8000/live/marysreveles@jourrapide.com/yquxycfn /2193.m3u8</link>
+<link>http://ok1.se:8000/live/ marysreveles@jourrapide.com / yquxycfn /2193.m3u8</link>
 <thumbnail>http://www.sportsvideo.org/new/wp-content/uploads/2016/10/NBA-League-Pass.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NBA League Pass 5</title>
-<link>http://ok1.se:8000/live/marysreveles@jourrapide.com/yquxycfn /2194.m3u8</link>
+<link>http://ok1.se:8000/live/ marysreveles@jourrapide.com / yquxycfn /2194.m3u8</link>
 <thumbnail>http://www.sportsvideo.org/new/wp-content/uploads/2016/10/NBA-League-Pass.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NBA League Pass 6</title>
-<link>http://ok1.se:8000/live/marysreveles@jourrapide.com/yquxycfn /2195.m3u8</link>
+<link>http://ok1.se:8000/live/ marysreveles@jourrapide.com / yquxycfn /2195.m3u8</link>
 <thumbnail>http://www.sportsvideo.org/new/wp-content/uploads/2016/10/NBA-League-Pass.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NHL Center Ice 1</title>
-<link>http://ok1.se:8000/live/marysreveles@jourrapide.com/yquxycfn /159.m3u8</link>
+<link>http://ok1.se:8000/live/ marysreveles@jourrapide.com / yquxycfn /159.m3u8</link>
 <thumbnail>http://1.cdn.nhle.com/nhl/images/upload/2013/09/Center-Ice-Logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NHL Center Ice 2</title>
-<link>http://ok1.se:8000/live/marysreveles@jourrapide.com/yquxycfn /160.m3u8</link>
+<link>http://ok1.se:8000/live/ marysreveles@jourrapide.com / yquxycfn /160.m3u8</link>
 <thumbnail>http://1.cdn.nhle.com/nhl/images/upload/2013/09/Center-Ice-Logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NHL Center Ice 3</title>
-<link>http://ok1.se:8000/live/marysreveles@jourrapide.com/yquxycfn /161.m3u8</link>
+<link>http://ok1.se:8000/live/ marysreveles@jourrapide.com / yquxycfn /161.m3u8</link>
 <thumbnail>http://1.cdn.nhle.com/nhl/images/upload/2013/09/Center-Ice-Logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NHL Center Ice 4</title>
-<link>http://ok1.se:8000/live/marysreveles@jourrapide.com/yquxycfn /162.m3u8</link>
+<link>http://ok1.se:8000/live/ marysreveles@jourrapide.com / yquxycfn /162.m3u8</link>
 <thumbnail>http://1.cdn.nhle.com/nhl/images/upload/2013/09/Center-Ice-Logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NHL Center Ice 5</title>
-<link>http://ok1.se:8000/live/marysreveles@jourrapide.com/yquxycfn /163.m3u8</link>
+<link>http://ok1.se:8000/live/ marysreveles@jourrapide.com / yquxycfn /163.m3u8</link>
 <thumbnail>http://1.cdn.nhle.com/nhl/images/upload/2013/09/Center-Ice-Logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NHL Center Ice 6</title>
-<link>http://ok1.se:8000/live/aprilkshutt@dayrep.com/cpeezffe /164.m3u8</link>
+<link>http://ok1.se:8000/live/ aprilkshutt@dayrep.com / cpeezffe /164.m3u8</link>
 <thumbnail>http://1.cdn.nhle.com/nhl/images/upload/2013/09/Center-Ice-Logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Big 10 Network</title>
-<link>http://ok1.se:8000/live/aprilkshutt@dayrep.com/cpeezffe /3950.m3u8</link>
+<link>http://ok1.se:8000/live/ aprilkshutt@dayrep.com / cpeezffe /3950.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -108,13 +108,13 @@
 </item>
 <item>
 <title>Fox Sports 2</title>
-<link>http://ok1.se:8000/live/aprilkshutt@dayrep.com/cpeezffe /146.m3u8</link>
+<link>http://ok1.se:8000/live/ aprilkshutt@dayrep.com / cpeezffe /146.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-Wb2cPPXwOw8/VN05O6NlxeI/AAAAAAAAADA/-fCm9QQHddQ/s1600/foxsp2-2015.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NBA TV</title>
-<link>http://ok1.se:8000/live/aprilkshutt@dayrep.com/cpeezffe /165.m3u8</link>
+<link>http://ok1.se:8000/live/ aprilkshutt@dayrep.com / cpeezffe /165.m3u8</link>
 <thumbnail>http://www.3sayi.com/wp-content/uploads/2011/01/Nbatv-200x200.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -126,134 +126,134 @@
 </item>
 <item>
 <title>NBC Sport Network</title>
-<link>http://ok1.se:8000/live/aprilkshutt@dayrep.com/cpeezffe /170.m3u8</link>
+<link>http://ok1.se:8000/live/ aprilkshutt@dayrep.com / cpeezffe /170.m3u8</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/40/9e/6f/409e6f37b7fbb58df57d6c27489241af.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NFL Network</title>
-<link>http://ok1.se:8000/live/aprilkshutt@dayrep.com/cpeezffe /157.m3u8</link>
+<link>http://ok1.se:8000/live/ aprilkshutt@dayrep.com / cpeezffe /157.m3u8</link>
 <thumbnail>http://pixel.nymag.com/imgs/daily/sports/2012/08/16/17-nfl-network-logo.w190.h190.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NHL Network</title>
-<link>http://ok1.se:8000/live/aprilkshutt@dayrep.com/cpeezffe /156.m3u8</link>
+<link>http://ok1.se:8000/live/ aprilkshutt@dayrep.com / cpeezffe /156.m3u8</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/a/ae/Md_nhl_logo.jpg/revision/latest?cb=20150903001526</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CBS Sports Network</title>
-<link>http://ok1.se:8000/live/patriciakgooch@rhyta.com/pytpqamh /169.m3u8</link>
+<link>http://ok1.se:8000/live/ patriciakgooch@rhyta.com / pytpqamh /169.m3u8</link>
 <thumbnail>https://cbsnewyork.files.wordpress.com/2011/08/cbs-sports-logo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>BT Espn</title>
-<link>http://ok1.se:8000/live/patriciakgooch@rhyta.com/pytpqamh/233.m3u8</link>
+<link>http://ok1.se:8000/live/ patriciakgooch@rhyta.com / pytpqamh/233.m3u8</link>
 <thumbnail>http://seenit.co.uk/wp-content/uploads/BT-ESPN.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>At The Races</title>
-<link>http://ok1.se:8000/live/patriciakgooch@rhyta.com/pytpqamh /2197.m3u8</link>
+<link>http://ok1.se:8000/live/ patriciakgooch@rhyta.com / pytpqamh /2197.m3u8</link>
 <thumbnail>http://equuslive.com/wp-content/uploads/2013/03/ATR-Logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>BoxNation</title>
-<link>http://ok1.se:8000/live/patriciakgooch@rhyta.com/pytpqamh /209.m3u8</link>
+<link>http://ok1.se:8000/live/ patriciakgooch@rhyta.com / pytpqamh /209.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/523395738181439488/ZSdNbxJ3_400x400.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <item>
 <title>Sky Sports 1</title>
-<link>http://ok1.se:8000/live/patriciakgooch@rhyta.com/pytpqamh /204.m3u8</link>
+<link>http://ok1.se:8000/live/ patriciakgooch@rhyta.com / pytpqamh /204.m3u8</link>
 <thumbnail>http://footballontv.com/img/channels/square-300/Sky-Sports-1.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Sky Sports 2</title>
-<link>http://ok1.se:8000/live/patriciakgooch@rhyta.com/pytpqamh/205.m3u8</link>
+<link>http://ok1.se:8000/live/ patriciakgooch@rhyta.com / pytpqamh /205.m3u8</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/e/e1/Sky_Sports_2_logo_2003.svg/revision/latest?cb=20100402105638</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Sky Sports 3</title>
-<link>http://ok1.se:8000/live/patriciakgooch@rhyta.com/pytpqamh /206.m3u8</link>
+<link>http://ok1.se:8000/live/ patriciakgooch@rhyta.com / pytpqamh /206.m3u8</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/7/79/Sky_Sports_3_logo_2003.svg/revision/latest?cb=20100402111857</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Sky Sports 4</title>
-<link>http://ok1.se:8000/live/sallycjohnson@jourrapide.com/ yqqpsfee /207.m3u8</link>
+<link>http://ok1.se:8000/live/ sallycjohnson@jourrapide.com / yqqpsfee /207.m3u8</link>
 <thumbnail>http://ijola.com/wp-content/uploads/2016/06/sky-sports-4.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Sky Sports 5</title>
-<link>http://ok1.se:8000/live/sallycjohnson@jourrapide.com/yqqpsfee /208.m3u8</link>
+<link>http://ok1.se:8000/live/ sallycjohnson@jourrapide.com / yqqpsfee /208.m3u8</link>
 <thumbnail>http://images.atlas.metabroadcast.com/pressassociation.com/channels/p2201408121889.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Sky Sports F1</title>
-<link>http://ok1.se:8000/live/sallycjohnson@jourrapide.com/yqqpsfee /210.m3u8</link>
+<link>http://ok1.se:8000/live/ sallycjohnson@jourrapide.com / yqqpsfee /210.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/502483207267164160/wyV8wUFV.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Tennis Channel</title>
-<link>http://ok1.se:8000/live/sallycjohnson@jourrapide.com/yqqpsfee /167.m3u8</link>
+<link>http://ok1.se:8000/live/ sallycjohnson@jourrapide.com / yqqpsfee /167.m3u8</link>
 <thumbnail>https://tennisatlantic.files.wordpress.com/2012/07/tennischannellogo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>BT Sport 1</title>
-<link>http://ok1.se:8000/live/sallycjohnson@jourrapide.com/yqqpsfee /225.m3u8</link>
+<link>http://ok1.se:8000/live/ sallycjohnson@jourrapide.com / yqqpsfee /225.m3u8</link>
 <thumbnail>http://oklivetv.com/wp-content/uploads/media/bt-sport-1-logo.jpeg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>BT Sport 2</title>
-<link>http://ok1.se:8000/live/sallycjohnson@jourrapide.com/yqqpsfee /226.m3u8</link>
+<link>http://ok1.se:8000/live/ sallycjohnson@jourrapide.com / yqqpsfee /226.m3u8</link>
 <thumbnail>http://oklivetv.com/wp-content/uploads/media/bt-sport-2-logo.jpeg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>TSN Sports 1</title>
-<link>http://ok1.se:8000/live/sallycjohnson@jourrapide.com/yqqpsfee /138.m3u8</link>
+<link>http://ok1.se:8000/live/ sallycjohnson@jourrapide.com / yqqpsfee /138.m3u8</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/3/30/TSN1.png/revision/latest?cb=20140901045701</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>TSN Sports 2</title>
-<link>http://ok1.se:8000/live/sallycjohnson@jourrapide.com/yqqpsfee /139.m3u8</link>
+<link>http://ok1.se:8000/live/ sallycjohnson@jourrapide.com / yqqpsfee /139.m3u8</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/f/fb/TSN2_logo.png/revision/latest?cb=20140901043550</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>TSN Sports 3</title>
-<link>http://ok1.se:8000/live/laquitajcassell@jourrapide.com/humfgvse /140.m3u8</link>
+<link>http://ok1.se:8000/live/ laquitajcassell@jourrapide.com / humfgvse /140.m3u8</link>
 <thumbnail>http://www.nwtel.ca/sites/default/files/media/channel-logos/tsn3_0.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>TSN Sports 4</title>
-<link>http://ok1.se:8000/live/laquitajcassell@jourrapide.com/humfgvse /141.m3u8</link>
+<link>http://ok1.se:8000/live/ laquitajcassell@jourrapide.com / humfgvse /141.m3u8</link>
 <thumbnail>http://contact.sourcecable.ca/wp-content/uploads/2015/05/TSN4_CMYK.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>TSN Sports 5</title>
-<link>http://ok1.se:8000/live/laquitajcassell@jourrapide.com/humfgvse /142.m3u8</link>
+<link>http://ok1.se:8000/live/ laquitajcassell@jourrapide.com / humfgvse /142.m3u8</link>
 <thumbnail>http://contact.sourcecable.ca/wp-content/uploads/2015/05/TSN5_CMYK.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>WWE Network</title>
-<link>http://ok1.se:8000/live/laquitajcassell@jourrapide.com/humfgvse /168.m3u8</link>
+<link>http://ok1.se:8000/live/ laquitajcassell@jourrapide.com / humfgvse /168.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-lJR1aUCx4vo/VQp0Xbp_2kI/AAAAAAAAOLY/NJQyPNWJDP8/s1600/WWE-logo-400-700x351.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
