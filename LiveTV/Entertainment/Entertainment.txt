@@ -1,6 +1,6 @@
 <item>
 <title>5 Star Max</title>
-<link>http://ok1.se:8000/live/ laquitajcassell@jourrapide.com / humfgvse /382.ts</link>
+<link>http://ok1.se:8000/live/ laquitajcassell@jourrapide.com / humfgvse /382.m3u8</link>
 <thumbnail>http://files.on-tapp-networks.com/logos/arctic/Arctic%20Zephyr%20Logos/Cinemax%205%20Star.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -25,25 +25,25 @@
 </item>
 <item>
 <title>CTV</title>
-<link>http://ok1.se:8000/live/ theresahhull@armyspy.com / yugykhps /2398.ts</link>
+<link>http://ok1.se:8000/live/ theresahhull@armyspy.com / yugykhps /2398.m3u8</link>
 <thumbnail>http://static.ctv.ca/get-bm-media/635978803631770556/5763dfaf-f3a4-4e15-9426-496994caf642/0/0</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Discovery</title>
-<link>http://ok1.se:8000/live/ theresahhull@armyspy.com / yugykhps /319.ts</link>
+<link>http://ok1.se:8000/live/ theresahhull@armyspy.com / yugykhps /319.m3u8</link>
 <thumbnail>http://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Discovery Science</title>
-<link>http://ok1.se:8000/live/ theresahhull@armyspy.com / yugykhps /320.ts</link>
+<link>http://ok1.se:8000/live/ theresahhull@armyspy.com / yugykhps /320.m3u8</link>
 <thumbnail>http://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Fox</title>
-<link>http://ok1.se:8000/live/ theresahhull@armyspy.com / yugykhps /9.ts</link>
+<link>http://ok1.se:8000/live/ theresahhull@armyspy.com / yugykhps /9.m3u8</link>
 <thumbnail>http://logonews.fr/wp-content/uploads/2013/05/fox-logo1_300x206.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -55,7 +55,7 @@
 </item>
 <item>
 <title>Global</title>
-<link>http://ok1.se:8000/live/ theresahhull@armyspy.com / yugykhps /15.ts</link>
+<link>http://ok1.se:8000/live/ theresahhull@armyspy.com / yugykhps /15.m3u8</link>
 <thumbnail>http://www.throng.ca/files/u1488/global_logoNEW.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -139,79 +139,79 @@
 </item>
 <item>
 <title>Hallmark Channel</title>
-<link>http://ok1.se:8000/live/ leanneascott@rhyta.com / kwqmjunc /321.ts</link>
+<link>http://ok1.se:8000/live/ leanneascott@rhyta.com / kwqmjunc /321.m3u8</link>
 <thumbnail>https://lh5.ggpht.com/aVdJRXT2Tm0e9AVicbiocyrUDaA-sYosZDLdwgWAJLEjeMrr03HaeDJXdVsDsgUp7w=w300</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Hallmark Movies & Mysteries</title>
-<link>http://ok1.se:8000/live/ leanneascott@rhyta.com / kwqmjunc /4599.ts</link>
+<link>http://ok1.se:8000/live/ leanneascott@rhyta.com / kwqmjunc /4599.m3u8</link>
 <thumbnail>http://www.mypremieronline.com/wp-content/uploads/hallmark-movies-and-mysteries_logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>HLN</title>
-<link>http://ok1.se:8000/live/ leanneascott@rhyta.com / kwqmjunc /362.ts</link>
+<link>http://ok1.se:8000/live/ leanneascott@rhyta.com / kwqmjunc /362.m3u8</link>
 <thumbnail>http://www.petitionbuzz.com/uploaded/131206f21f42e9dd88dbf2477a76d9255bdaab.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>HSN 2</title>
-<link>http://ok1.se:8000/live/ leanneascott@rhyta.com / kwqmjunc /3082.ts</link>
+<link>http://ok1.se:8000/live/ leanneascott@rhyta.com / kwqmjunc /3082.m3u8</link>
 <thumbnail>http://www.direct-vs-dish.com/media/channel_logos/hsn2.jpg.300x300_q85.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Investigation Discovery</title>
-<link>http://ok1.se:8000/live/ leanneascott@rhyta.com / kwqmjunc /324.ts</link>
+<link>http://ok1.se:8000/live/ leanneascott@rhyta.com / kwqmjunc /324.m3u8</link>
 <thumbnail>http://images.mi.tv/channels/ar_investigation-discovery_m.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Lifetime</title>
-<link>http://ok1.se:8000/live/ tabitharcox@rhyta.com / epvccsaw /325.ts</link>
+<link>http://ok1.se:8000/live/ tabitharcox@rhyta.com / epvccsaw /325.m3u8</link>
 <thumbnail>https://i1.wp.com/www.underconsideration.com/brandnew/archives/lifetime_logo_detail.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>MoreMax</title>
-<link>http://ok1.se:8000/live/ tabitharcox@rhyta.com / epvccsaw /381.ts</link>
+<link>http://ok1.se:8000/live/ tabitharcox@rhyta.com / epvccsaw /381.m3u8</link>
 <thumbnail>http://www.hboasiamail.com/newsletters/201407-v001/cinemax/images/more_max.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>MTV</title>
-<link>http://ok1.se:8000/live/ tabitharcox@rhyta.com / epvccsaw /350.ts</link>
+<link>http://ok1.se:8000/live/ tabitharcox@rhyta.com / epvccsaw /350.m3u8</link>
 <thumbnail>http://www.aiga.org/globalassets/migrated-images/uploadedimages/aiga/content/inspiration/corporate_awards/cla_mtv_640x455_.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Nat Geo</title>
-<link>http://ok1.se:8000/live/ tabitharcox@rhyta.com / epvccsaw /330.ts</link>
+<link>http://ok1.se:8000/live/ tabitharcox@rhyta.com / epvccsaw /330.m3u8</link>
 <thumbnail>https://tingskathmanducom.files.wordpress.com/2016/03/nat-geo-logo.jpg?w=256</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Nat Geo Wild</title>
-<link>http://ok1.se:8000/live/ tabitharcox@rhyta.com / epvccsaw /331.ts</link>
+<link>http://ok1.se:8000/live/ tabitharcox@rhyta.com / epvccsaw /331.m3u8</link>
 <thumbnail>http://ww1.prweb.com/prfiles/2013/06/27/10877463/PR-NatGeoWILD.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>OWN</title>
-<link>http://ok1.se:8000/live/ tabitharcox@rhyta.com / epvccsaw /348.ts</link>
+<link>http://ok1.se:8000/live/ tabitharcox@rhyta.com / epvccsaw /348.m3u8</link>
 <thumbnail>http://i.perezhilton.com/wp-content/uploads/2010/10/oprah_winfrey_network_logo__oPt.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Showcase</title>
-<link>http://ok1.se:8000/live/ tabitharcox@rhyta.com / epvccsaw /346.ts</link>
+<link>http://ok1.se:8000/live/ tabitharcox@rhyta.com / epvccsaw /346.m3u8</link>
 <thumbnail>http://www.gmkfreelogos.com/logos/S/img/Showcase.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Showtime</title>
-<link>http://ok1.se:8000/live/ tabitharcox@rhyta.com / epvccsaw /385.ts</link>
+<link>http://ok1.se:8000/live/ tabitharcox@rhyta.com / epvccsaw /385.m3u8</link>
 <thumbnail>https://images.bwwstatic.com/columnpic7/28B66774C-CCC0-2F75-6E1D1925D5B76786.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -229,55 +229,55 @@
 </item
 <item>
 <title>Spike</title>
-<link>http://ok1.se:8000/live/ francesgdileo@armyspy.com / cnsetxyd /318.ts</link>
+<link>http://ok1.se:8000/live/ francesgdileo@armyspy.com / cnsetxyd /318.m3u8</link>
 <thumbnail>http://www.allwrestlingnews.com/wp-content/uploads/2013/07/Spike-TV-Logo-620x250.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
 <title>TBS</title>
-<link>http://ok1.se:8000/live/ francesgdileo@armyspy.com / cnsetxyd /317.ts</link>
+<link>http://ok1.se:8000/live/ francesgdileo@armyspy.com / cnsetxyd /317.m3u8</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/0d/76/b4/0d76b4a20b2310ee0c5eadb9eedd60c9.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
 <title>Thriller Max</title>
-<link>http://ok1.se:8000/live/ francesgdileo@armyspy.com / cnsetxyd /384.ts</link>
+<link>http://ok1.se:8000/live/ francesgdileo@armyspy.com / cnsetxyd /384.m3u8</link>
 <thumbnail>http://www.oceanic.com/wp-content/uploads/2014/02/ThrillerMax.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
 <title>TNT</title>
-<link>http://ok1.se:8000/live/ francesgdileo@armyspy.com / cnsetxyd /341.ts</link>
+<link>http://ok1.se:8000/live/ francesgdileo@armyspy.com / cnsetxyd /341.m3u8</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/4/41/TNT_logo_2008.png/revision/latest?cb=20091120155408</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
 <title>Travel Channel</title>
-<link>http://ok1.se:8000/live/ francesgdileo@armyspy.com / cnsetxyd /349.ts</link>
+<link>http://ok1.se:8000/live/ francesgdileo@armyspy.com / cnsetxyd /349.m3u8</link>
 <thumbnail>http://www.scrippsnetworksinteractive.com/newsroom/company-news/PublishingImages/POSTER-travelapril2016_638.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
 <title>Tru Tv</title>
-<link>http://ok1.se:8000/live/ francesgdileo@armyspy.com / cnsetxyd /340.ts</link>
+<link>http://ok1.se:8000/live/ francesgdileo@armyspy.com / cnsetxyd /340.m3u8</link>
 <thumbnail>http://www.getmemedia.com/public/ideas/Opp/14869/trutv.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
 <title>Velocity</title>
-<link>http://ok1.se:8000/live/  josephrputnam@jourrapide.com / svgqgteg /367.ts</link>
+<link>http://ok1.se:8000/live/  josephrputnam@jourrapide.com / svgqgteg /367.m3u8</link>
 <thumbnail>http://bbs.typhoon.gov.cn/attachment/Mon_1304/65_31015_bc9b30e7cd7abf9.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
 <title>VH1</title>
-<link>http://ok1.se:8000/live/ josephrputnam@jourrapide.com / svgqgteg /354.ts</link>
+<link>http://ok1.se:8000/live/ josephrputnam@jourrapide.com / svgqgteg /354.m3u8</link>
 <thumbnail>https://image.roku.com/blog/wp-content/uploads/2016/04/VH1-logo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
 <title>WE Tv</title>
-<link>http://ok1.se:8000/live/ josephrputnam@jourrapide.com / svgqgteg /342.ts</link>
+<link>http://ok1.se:8000/live/ josephrputnam@jourrapide.com / svgqgteg /342.m3u8</link>
 <thumbnail>http://www-deadline-com.vimg.net/wp-content/uploads/2014/06/wetv__140602182019.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
@@ -386,25 +386,25 @@
 </item
 <item>
 <title>The Weather Channel</title>
-<link>http://ok1.se:8000/live/ christinawleonard@teleworm.us / yjunehbk /3080.ts</link>
+<link>http://ok1.se:8000/live/ christinawleonard@teleworm.us / yjunehbk /3080.m3u8</link>
 <thumbnail>https://lh6.ggpht.com/hGnzb0TzcUKDC63BIxs-x0wig5iq7SJd7F1iSRBywX3fbKyLoMDZWAsJJNxyOx9F1rUk=w300</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
 <title>Univision</title>
-<link>http://ok1.se:8000/live/ christinawleonard@teleworm.us / yjunehbk /412.ts</link>
+<link>http://ok1.se:8000/live/ christinawleonard@teleworm.us / yjunehbk /412.m3u8</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/98/7e/06/987e0642c10a6219b5b68fd11506e436.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
 <title>Telemundo</title>
-<link>http://ok1.se:8000/live/ christinawleonard@teleworm.us / yjunehbk /415.ts</link>
+<link>http://ok1.se:8000/live/ christinawleonard@teleworm.us / yjunehbk /415.m3u8</link>
 <thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/032013/tm_master_large_id_rgb_reverse.png?itok=OU-NDXlb</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
 <item>
 <title>Unimas</title>
-<link>http://ok1.se:8000/live/ christinawleonard@teleworm.us / yjunehbk /425.ts</link>
+<link>http://ok1.se:8000/live/ christinawleonard@teleworm.us / yjunehbk /425.m3u8</link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/unimas_logo_detail.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item
