@@ -167,7 +167,6 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<item>
 <title>Sky Sports 1</title>
 <link>http://ok2.se:8000/live/lukeirodriguez@teleworm.us/nhyvacqv/204.m3u8</link>
 <thumbnail>http://footballontv.com/img/channels/square-300/Sky-Sports-1.png</thumbnail>
