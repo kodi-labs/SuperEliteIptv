@@ -83,12 +83,6 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>TNT</title>
-<link>http://208.86.19.13:8080/live/16.stream/index.m3u8</link>
-<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/4/41/TNT_logo_2008.png/revision/latest?cb=20091120155408</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
-</item>
-<item>
 <title>USA Network</title>
 <link>http://208.86.19.123:8080/live/11.stream/index.m3u8</link>
 <thumbnail>https://images.bwwstatic.com/columnpic6/24BBCD1DC-0C7F-5F83-A9B18707E9842A5E.jpg</thumbnail>
