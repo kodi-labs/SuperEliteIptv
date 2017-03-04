@@ -61,7 +61,7 @@
 <item>
 <title>Spike</title>
 <link>http://213.171.204.52/live/usa/chunklist/15cdafd5ab72ab1a802b2aa08bbb8ed0.m3u8</link>
-<thumbnail>http://home.bt.com/images/amc-logo-136399633990403901-150807153713.jpg</thumbnail>
+<thumbnail>http://1.images.spike.com/images/missing_image2.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
