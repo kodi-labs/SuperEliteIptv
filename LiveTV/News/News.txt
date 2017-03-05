@@ -1,12 +1,12 @@
 <item>
 <title>CNN</title>
-<link>http://176.31.231.205:8000/live/bridgettdspurgeon@rhyta.com/hrzpkdhe/360.m3u8</link>
+<link>http://176.31.231.205:8000/live/bettycparent@jourrapide.com/qqbndery/360.m3u8</link>
 <thumbnail>http://bammarijuana.com/wp-content/uploads/2016/02/CNN-International-Logo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CBS News</title>
-<link>http://176.31.231.205:8000/live/lukeirodriguez@teleworm.us/nhyvacqv/3078.m3u8</link>
+<link>http://176.31.231.205:8000/live/bettycparent@jourrapide.com/qqbndery/3078.m3u8</link>
 <thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0020/8236/brand.gif?itok=5lWbG2hW</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -18,7 +18,7 @@
 </item>
 <item>
 <title>MSNBC</title>
-<link>http://176.31.231.205:8000/live/bridgettdspurgeon@rhyta.com/hrzpkdhe/365.m3u8</link>
+<link>http://176.31.231.205:8000/live/bettycparent@jourrapide.com/qqbndery/365.m3u8</link>
 <thumbnail>http://fontmeme.com/images/MSNBC-Logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -36,37 +36,37 @@
 </item>
 <item>
 <title>Fox News</title>
-<link>http://176.31.231.205:8000/live/bridgettdspurgeon@rhyta.com/hrzpkdhe/363.m3u8</link>
+<link>http://176.31.231.205:8000/live/bettycparent@jourrapide.com/qqbndery/363.m3u8</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/67/Fox_News_Channel_logo.svg/revision/latest/scale-to-width-down/200?cb=20091120214359</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Fox Business</title>
-<link>http://176.31.231.205:8000/live/lukeirodriguez@teleworm.us/nhyvacqv/4600.m3u8</link>
+<link>http://176.31.231.205:8000/live/bettycparent@jourrapide.com/qqbndery/4600.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/699974743751929856/nf8OCM2A.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>ESPN News</title>
-<link>http://176.31.231.205:8000/live/lukeirodriguez@teleworm.us/nhyvacqv/4065.m3u8</link>
+<link>http://176.31.231.205:8000/live/bettycparent@jourrapide.com/qqbndery/4065.m3u8</link>
 <thumbnail>http://www.ilovesatellitetv.com/images/espn-news-logo.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CBC News</title>
-<link>http://176.31.231.205:8000/live/lukeirodriguez@teleworm.us/nhyvacqv/361.m3u8</link>
+<link>http://176.31.231.205:8000/live/bettycparent@jourrapide.com/qqbndery/361.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/466664981673410560/886Az0vu.jpeg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CTV News</title>
-<link>http://176.31.231.205:8000/live/lukeirodriguez@teleworm.us/nhyvacqv/2423.m3u8</link>
+<link>http://176.31.231.205:8000/live/bettycparent@jourrapide.com/qqbndery/2423.m3u8</link>
 <thumbnail>https://www.brandeps.com/logo-download/C/CTV-News-01.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Sky Sports News</title>
-<link>http://176.31.231.205:8000/live/lukeirodriguez@teleworm.us/nhyvacqv/203.m3u8</link>
+<link>http://176.31.231.205:8000/live/bettycparent@jourrapide.com/qqbndery/203.m3u8</link>
 <thumbnail>http://andylamb.co.uk/andyh/img/carousel/logo_skysportsnews.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
