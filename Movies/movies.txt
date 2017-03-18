@@ -48,6 +48,13 @@
 <info>Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.</info>
 </item>
 <item>
+<title>Rogue One: A Star Wars Story</title>
+<link>http://dl2.heydl.com/film/2017-3/Rogue.One.2016.1080p.6CH.HeyDL.mkv</link>
+<thumbnail>https://lumiere-a.akamaihd.net/v1/images/rogueone_onesheeta_1000_309ed8f6.jpeg?region=0%2C0%2C1000%2C1481&width=480</thumbnail>
+<fanart>https://images7.alphacoders.com/749/749188.jpg</fanart>
+<info>The Rebel Alliance makes a risky move to steal the plans for the Death Star, setting up the epic saga to follow.</info>
+</item>
+<item>
 <title>Spy</title>
 <link>http://dl2.heydl.com/film/2016-4/2/Spy.2015.1080p.5.1CH.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5d/Spy2015_TeaserPoster.jpg</thumbnail>
