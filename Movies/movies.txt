@@ -1,16 +1,16 @@
 <item>
 <title>Batman v Superman: Dawn of Justice</title>
-<link>https://lh3.googleusercontent.com/CZtl033DQMUW2ZDGWdcSBQcg88nIlKYRnZmfsq2RmwWZh8pRezblbOHBk3xtMQTs62XTogenuQ=m37</link>
+<link>http://dl2.heydl.com/film/2016-7/Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.1080p.5.1CH.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/2/20/Batman_v_Superman_poster.jpg</thumbnail>
 <fanart>http://www.mediastinger.com/wp-content/uploads/2016/01/Batman-v-Superman-Dawn-of-Justice-2016-after-credits-hq.jpg</fanart>
 <info>Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.</info>
 </item>
 <item>
-<title>Captain America: Civil War</title>
-<link>https://r4---sn-p5qs7n7l.googlevideo.com/videoplayback?id=b8c8c0aecf7cb0cd&itag=37&source=webdrive&begin=0&requiressl=yes&mm=30&mn=sn-p5qs7n7l&ms=nxu&mv=m&pl=16&sc=yes&ei=tGzNWNnKGYarqQWZmou4Cg&mime=video/mp4&lmt=1489699633430207&mt=1489857571&ip=173.73.58.220&ipbits=8&expire=1489886516&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,sc,ei,mime,lmt&signature=6A2192DA3B641ADF23F384B445E6E2BE1B509153.56DA78BD8D2E6D14048E44BB12792C613DA73D6C&key=ck2</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg</thumbnail>
-<fanart>https://images.alphacoders.com/669/669681.jpg</fanart>
-<info>Political pressure mounts to install a system of accountability when the actions of the Avengers lead to collateral damage. The new status quo deeply divides members of the team. Captain America (Chris Evans) believes superheroes should remain free to defend humanity without government interference. Iron Man (Robert Downey Jr.) sharply disagrees and supports oversight. As the debate escalates into an all-out feud, Black Widow (Scarlett Johansson) and Hawkeye (Jeremy Renner) must pick a side.</info>
+<title>Captain America: The Winter Soldier</title>
+<link>http://dl2.heydl.com/film/2016-4/1/Captain.America.The.Winter.Soldier.2014.1080p.5.1CH.HeyDL.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e8/Captain_America_The_Winter_Soldier.jpg</thumbnail>
+<fanart>http://cdn.wallpapersafari.com/54/82/kjS2Xe.jpg</fanart>
+<info>As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.</info>
 </item>
 <item>
 <title>Deadpool</title>
@@ -21,42 +21,42 @@
 </item>
 <item>
 <title>Dawn of the Planet of the Apes</title>
-<link>https://lh3.googleusercontent.com/5N--bETYWOQZGHLb558nJXW6I9VYQiO8aRr86idTatkDVdPG9f-gz5fFzosEWOyB2zFtQtA11w=m37</link>
+<link>http://dl2.heydl.com/film/2016-4/1/Dawn.of.the.Planet.of.the.Apes.2014.1080p.5.1CH.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/7/77/Dawn_of_the_Planet_of_the_Apes.jpg</thumbnail>
 <fanart>http://cdn.collider.com/wp-content/uploads/dawn-of-the-planet-of-the-apes-caesar-hold.jpg</fanart>
 <info>A growing nation of genetically evolved apes led by Caesar is threatened by a band of human survivors of the devastating virus unleashed a decade earlier.</info>
 </item>
 <item>
 <title>Furious 6</title>
-<link>https://lh3.googleusercontent.com/E68yEVh5oRrnpq0hSh1IXwap-QtOJ6PDKFu3prLODWpI3JFaB3j_1aEZ3YiVuqXL4IdWPF3uTA=m37</link>
+<link>http://dl2.heydl.com/film/2016-5/Fast.And.Furious.6.2013.Extended.1080p.5.1Ch.HeyDL.mkv</link>
 <thumbnail>http://s.movie.as/images/p/130313_m1367821644.jpg</thumbnail>
 <fanart>https://images5.alphacoders.com/391/thumb-1920-391655.jpg</fanart>
 <info>Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries: Dominic unexpectedly gets convoluted also facing his presumed deceased girlfriend, Letty.</info>
 </item>
 <item>
 <title>Independence Day: Resurgence</title>
-<link>https://lh3.googleusercontent.com/DHh0o9HfTjxwqQ6z4KkweigJh6wWFb3sQvbjDiEwz_usTJIDHnLN8Ral02cLWLF3LwaWwKPegA=m37</link>
+<link>http://dl2.heydl.com/film/2016-10/Independence.Day.Resurgence.2016.1080p.5.1CH.Ganool.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/5/58/Independence-Day-2-poster.jpg</thumbnail>
 <fanart>http://s3.foxmovies.com/foxmovies/production/films/107/images/gallery/id4-gallery4-gallery-image.jpg</fanart>
 <info>Two decades after the first Independence Day invasion, Earth is faced with a new extra-Solar threat. But will mankind's new space defenses be enough?</info>
 </item>
 <item>
 <title>Star Wars: Episode VII - The Force Awakens </title>
-<link>http://dl5.downloadha.com/hosein/Movie/March%202016/Star.Wars.Episode.VII.The.Force.Awakens.2015.720p.BrRip.x265-PSA_www.Downloadha.com_.mkv</link>
+<link>http://dl2.heydl.com/film/2016-5/Star.Wars.Episode.VII.The.Force.Awakens.2015.1080p.5.1CH.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/a/a2/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg</thumbnail>
 <fanart>http://i.imgur.com/jQ96SGk.jpg</fanart>
 <info>Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.</info>
 </item>
 <item>
 <title>Spy</title>
-<link>https://lh3.googleusercontent.com/lCMJJSpNe-UcQk_7uhqQW1A_VkJeiLxZMF8V6VLauO5BuWvN2P7SHnoTTttyUQeZZi7Y83__AA=m37</link>
+<link>http://dl2.heydl.com/film/2016-4/2/Spy.2015.1080p.5.1CH.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5d/Spy2015_TeaserPoster.jpg</thumbnail>
 <fanart>http://jamiebody.com/wp-content/uploads/2015/06/spy4-1024x576.jpg</fanart>
 <info>A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer, and prevent diabolical global disaster.</info>
 </item>
 <item>
 <title>Southpaw</title>
-<link>https://lh3.googleusercontent.com/uZJpSCyOpV0LrecluPMSTs5diSNl6qEKVH-2NKhZI1cn6ve9zKouzqY13WaHVffHiuhmq26z5w=m37</link>
+<link>http://dl2.heydl.com/film/2016-4/2/Southpaw.2015.1080p.6CH.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/89/Southpaw_poster.jpg</thumbnail>
 <fanart>http://static1.businessinsider.com/image/55a696ea2acae7f4028b6e40-1190-625/new-movie-southpaw-was-created-for-eminem--but-heres-why-the-role-ended-up-going-to-jake-gyllenhaal.jpg</fanart>
 <info>Boxer Billy Hope turns to trainer Tick Wills to help him get his life back on track after losing his wife in a tragic accident and his daughter to child protection services.
@@ -64,35 +64,35 @@
 </item>
 <item>
 <title>Teenage Mutant Ninja Turtles: Out of the Shadows</title>
-<link>https://lh3.googleusercontent.com/tVvK3g_1hM2cfdZ14I4qNXpUXgt5zYi0WFCTQY9pRvxW_CNT_q7P1Dht2Q12GcsloBQNKMZ3lQ=m37</link>
+<link>http://dl2.heydl.com/film/2016-9/Teenage.Mutant.Ninja.Turtles.Out.of.the.Shadows.2016.1080p.6CH.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7b/Teenage_Mutant_Ninja_Turtles_Out_of_the_Shadows_poster.jpg</thumbnail>
 <fanart>http://s3-us-west-1.amazonaws.com/mediastinger/wp-content/uploads/2016/06/03102611/Teenage-Mutant-Ninja-Turtles-Out-of-the-Shadows-2016-after-credits-hq.jpg</fanart>
 <info>After facing Shredder, who has joined forces with mad scientist Baxter Stockman and henchmen Bebop and Rocksteady to take over the world, the Turtles must confront an even greater nemesis: the notorious Krang.</info>
 </item>
 <item>
 <title>The Legend of Tarzan</title>
-<link>https://lh3.googleusercontent.com/W8KDWrxrMTls3mn1tgHN-z9pM32gpXk6JfSav1Inr4NEwr1VziN9gZ_eWmsTPG1MwaOZbnNbDg=m37</link>
+<link>http://dl2.heydl.com/film/2016-9/The.Legend.of.Tarzan.2016.1080p.6CH.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e5/The_Legend_of_Tarzan_poster.jpg</thumbnail>
 <fanart>http://www.geeksundergrace.com/wp-content/uploads/2016/07/alexander_skarsgard_margot_robbie_the_legend_of_tarzan-HD.jpg</fanart>
 <info>Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment.</info>
 </item>
 <item>
 <title>Transformers: Age of Extinction</title>
-<link>https://lh3.googleusercontent.com/2-yz09cDV386Fb6beFLH7nSkIH89PhvjVKG3ym0IgjH6UR7VpXp7Jm7o2rw0h1Z59vJIjpKOqg=m37</link>
+<link>http://dl2.heydl.com/film/2016-4/1/Transformers.Age.of.Extinction.2014.1080p.5.1CH.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/9/94/Transformers_Age_of_Extinction_Poster.jpeg</thumbnail>
 <fanart>http://s3.amazonaws.com/digitaltrends-uploads-prod/2014/06/transformers-age-of-extinction.jpg</fanart>
 <info>Autobots must escape sight from a bounty hunter who has taken control of the human serendipity: Unexpectedly, Optimus Prime and his remaining gang turn to a mechanic, his daughter, and her back street racing boyfriend for help.</info>
 </item>
 <item>
 <title>Terminator Genisys</title>
-<link>https://lh3.googleusercontent.com/-JubKSWubct3Vr24rxm5lvFpSXdIWU3j2aQ0vdkBf3z3KrzNStDkMpIZHfuKN2ywKcY_Llggew=m37</link>
+<link>http://dl2.heydl.com/film/2016-4/2/Terminator.Genisys.2015.1080p.5.1CH.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/bc/Terminator_Genisys.JPG</thumbnail>
 <fanart>http://s1.1zoom.net/big0/94/Terminator_Genisys_439594.jpg</fanart>
 <info>When John Connor, leader of the human resistance, sends Sgt. Kyle Reese back to 1984 to protect Sarah Connor and safeguard the future, an unexpected turn of events creates a fractured timeline.</info>
 </item>
 <item>
 <title>X-Men: Apocalypse</title>
-<link>https://lh3.googleusercontent.com/Ky9QGy2R9vAF7W8Zk_WaU-rnfKFxi2Z9oRQVA5-PO5uAs4fKtymx2NV9AtK6mzIdZQ019t158Q=m37</link>
+<link>http://dl2.heydl.com/film/2016-9/X-Men.Apocalypse.2016.1080p.6CH.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/04/X-Men_-_Apocalypse.jpg</thumbnail>
 <fanart>http://static.srcdn.com/wp-content/uploads/x-men-apocalypse-sequel-1990s.jpg</fanart>
 <info>After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.</info>
