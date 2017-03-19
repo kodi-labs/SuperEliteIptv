@@ -37,10 +37,11 @@
 <title>Tron: Legacy</title>
 <link>http://dl2.heydl.com/film/2016-7/TRON.Legacy.2010.3D.1080p.Half-SBS.5.1CH.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c2/Tron_Legacy_poster.jpg</thumbnail>
-<fanart>http://www.desktop-screens.com/data/out/118/3578476-tron-legacy-wallpapers.jpg</fanart>
+<fanart>http://cdn.wallpapersafari.com/31/73/omNRf7.jpg</fanart>
 <info>The son of a virtual world designer goes looking for his father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a unique ally who was born inside the digital world.</info>
 </item>
-<item>
+<item>http://www.desktop-screens.com/data/out/118/3578476-tron-legacy-wallpapers.jpg</fanart>
+<info>The son of a virtual world 
 <title>X-Men: Apocalypse</title>
 <link>http://dl2.heydl.com/film/2016-9/X-Men.Apocalypse.2016.1080p.3D.HSBS.6CH.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/04/X-Men_-_Apocalypse.jpg</thumbnail>
