@@ -20,9 +20,30 @@
 <info>Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.</info>
 </item>
 <item>
+<title>Doctor Strange</title>
+<link>http://dl2.heydl.com/film/2016-7/Batman.v.Superman.Dawn.of.Justice.2016.3D.1080p.6CH.HeyDL.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/20/Batman_v_Superman_poster.jpg</thumbnail>
+<fanart>http://www.mediastinger.com/wp-content/uploads/2016/02/Batman-v-Superman-Final-Trailer-hq.jpg</fanart>
+<info>A former neurosurgeon embarks on a journey of healing only to be drawn into the world of the mystic arts.</info>
+</item>
+<item>
 <title>Thor</title>
 <link>http://dl2.heydl.com/film/2016-8/Thor.2011.1080p.3D.Half-SBS.HeyDL.mkv</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart>http://www.hdwallpapersfreedownload.com/uploads/large/super-heroes/thor-cast.jpg</fanart>
 <info>The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.</info>
+</item>
+<item>
+<title>Tron: Legacy</title>
+<link>http://dl2.heydl.com/film/2017-2/Doctor.Strange.2016.3D.1080p.6CH.HeyDL.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c7/Doctor_Strange_poster.jpg</thumbnail>
+<fanart>https://images.alphacoders.com/699/thumb-1920-699582.jpg</fanart>
+<info>The son of a virtual world designer goes looking for his father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a unique ally who was born inside the digital world.</info>
+</item>
+<item>
+<title>X-Men: Apocalypse</title>
+<link>http://dl2.heydl.com/film/2016-9/X-Men.Apocalypse.2016.1080p.3D.HSBS.6CH.HeyDL.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/04/X-Men_-_Apocalypse.jpg</thumbnail>
+<fanart>http://wallsdesk.com/wp-content/uploads/2016/03/X-Men-Apocalypse-Wallpapers.jpg</fanart>
+<info>After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.</info>
 </item>
