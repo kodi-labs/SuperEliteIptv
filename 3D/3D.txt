@@ -33,3 +33,58 @@
 <fanart>http://www.mediastinger.com/wp-content/uploads/2016/02/Batman-v-Superman-Final-Trailer-hq.jpg</fanart>
 <info>Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.</info>
 </item>
+<item>
+<title>Captain America: The Winter Soldier</title>
+<link>http://dl2.heydl.com/film/2016-4/1/Captain.America.The.Winter.Soldier.2014.1080p.3D.HSBS.BluRay.x264.HeyDL.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e8/Captain_America_The_Winter_Soldier.jpg</thumbnail>
+<fanart>http://cdn.wallpapersafari.com/54/82/kjS2Xe.jpg</fanart>
+<info>As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.</info>
+</item>
+<item>
+<title>G.I. Joe: Retaliation</title>
+<link>http://dl2.heydl.com/film/2016-5-/G.I.Joe.Retaliation.2013.1080p.3D.HSBS.HeyDL.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/09/G.I._Joe_Retaliation.jpg</thumbnail>
+<fanart>http://thesecondtake.com/wp-content/uploads/2013/03/gijoe-retaliation-international-russian-banner-raw-image.jpeg</fanart>
+<info>The G.I. Joes are not only fighting their mortal enemy Cobra; they are forced to contend with threats from within the government that jeopardize their very existence.</info>
+</item>
+<item>
+<title>Iron Man 3</title>
+<link>http://dl2.heydl.com/film/2016-5-/Iron.Man.3.2013.1080p.3D.HSBS.HeyDL.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/d/d5/Iron_Man_3_theatrical_poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/4XJ07onCqAs/maxresdefault.jpg</fanart>
+<info>When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.</info>
+</item>
+<item>
+<title>Mad Max: Fury Road</title>
+<link>http://dl2.heydl.com/film/2016-5/Mad.Max.Fury.Road.2015.1080p.3D.HSBS.HeyDL.mp4</link>
+<thumbnail>https://resizing.flixster.com/rISYpBLeHyrIBxMGrgmBLOTOqUo=/206x305/v1.bTsxMTE5MTI3NjtqOzE3MzY0OzEyMDA7NTA5Ozc1NQ</thumbnail>
+<fanart>https://images8.alphacoders.com/598/598990.jpg</fanart>
+<info>A woman rebels against a tyrannical ruler in postapocalyptic Australia in search for her home-land with the help of a group of female prisoners, a psychotic worshipper, and a drifter named Max.</info>
+</item>
+<item>
+<title>Pirates of the Caribbean: On Stranger Tides</title>
+<link>http://dl2.heydl.com/film/2016-9/POTC4.On.Stranger.Tides.2011.3D.HSBS.1080p.HeyDL.mp4</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/pirates/images/a/a4/OST_PosterDVDCover.jpg/revision/latest?cb=20140110043320</thumbnail>
+<fanart>https://images4.alphacoders.com/184/184068.jpg</fanart>
+<info>Jack Sparrow and Barbossa embark on a quest to find the elusive fountain of youth, only to discover that Blackbeard and his daughter are after it too.</info>
+</item>
+<item>
+<title>Thor</title>
+<link>http://dl2.heydl.com/film/2016-8/Thor.2011.1080p.3D.Half-SBS.HeyDL.mkv</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://www.hdwallpapersfreedownload.com/uploads/large/super-heroes/thor-cast.jpg</fanart>
+<info>The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.</info>
+</item>
+<title>Thor: The Dark World</title>
+<link>http://dl2.heydl.com/film/2016-8/Thor.The.Dark.World.2013.1080p.3D.HSBS.HeyDL.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7e/Thor_-_The_Dark_World_poster.jpg</thumbnail>
+<fanart>https://wallpaperscraft.com/image/thor_the_dark_world_thor_chris_hemsworth_battle_93109_3840x2160.jpg</fanart>
+<info>When Dr. Jane Foster gets cursed with a powerful entity known as the Aether, Thor is heralded of the cosmic event known as the Convergence and the genocidal Dark Elves.</info>
+</item>
+</item>
+<title>The Wolverine</title>
+<link>http://dl2.heydl.com/film/2016-4/1/The.Wolverine.2013.EXTENDED.1080p.3D.HSBS.HeyDL.mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzg1MDQxMTQ2OF5BMl5BanBnXkFtZTcwMTk3MjAzOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://thesmashable.com/wp-content/uploads/2014/04/wolverine-hugh-jackman-x-men-hd-wallpapers-collection-9.jpg</fanart>
+<info>When Wolverine is summoned to Japan by an old acquaintance, he is embroiled in a conflict that forces him to confront his own demons.</info>
+</item>
