@@ -13,20 +13,6 @@
 <info>When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's Mightiest Heroes to stop the villainous Ultron from enacting his terrible plans.</info>
 </item>
 <item>
-<title>Avengers: Age of Ultron</title>
-<link>http://dl2.heydl.com/film/2016-5/Avengers.Age.of.Ultron.2015.1080p.3D.HSBS.5.1CH.HeyDL.mkv</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/1b/Avengers_Age_of_Ultron.jpg</thumbnail>
-<fanart>http://www.calvin.edu/chimes/wp-content/uploads/2015/05/age-of-ultron.jpeg</fanart>
-<info>When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's Mightiest Heroes to stop the villainous Ultron from enacting his terrible plans.</info>
-</item>
-<item>
-<title>Batman v Superman: Dawn of Justice</title>
-<link>http://dl2.heydl.com/film/2016-7/Batman.v.Superman.Dawn.of.Justice.2016.3D.1080p.6CH.HeyDL.mkv</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/20/Batman_v_Superman_poster.jpg</thumbnail>
-<fanart>http://www.mediastinger.com/wp-content/uploads/2016/02/Batman-v-Superman-Final-Trailer-hq.jpg</fanart>
-<info>Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.</info>
-</item>
-<item>
 <title>Batman v Superman: Dawn of Justice</title>
 <link>http://dl2.heydl.com/film/2016-7/Batman.v.Superman.Dawn.of.Justice.2016.3D.1080p.6CH.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/2/20/Batman_v_Superman_poster.jpg</thumbnail>
@@ -75,16 +61,38 @@
 <fanart>http://www.hdwallpapersfreedownload.com/uploads/large/super-heroes/thor-cast.jpg</fanart>
 <info>The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.</info>
 </item>
+<item>
 <title>Thor: The Dark World</title>
 <link>http://dl2.heydl.com/film/2016-8/Thor.The.Dark.World.2013.1080p.3D.HSBS.HeyDL.mp4</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7e/Thor_-_The_Dark_World_poster.jpg</thumbnail>
 <fanart>https://wallpaperscraft.com/image/thor_the_dark_world_thor_chris_hemsworth_battle_93109_3840x2160.jpg</fanart>
 <info>When Dr. Jane Foster gets cursed with a powerful entity known as the Aether, Thor is heralded of the cosmic event known as the Convergence and the genocidal Dark Elves.</info>
 </item>
-</item>
+<item>
 <title>The Wolverine</title>
 <link>http://dl2.heydl.com/film/2016-4/1/The.Wolverine.2013.EXTENDED.1080p.3D.HSBS.HeyDL.mp4</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzg1MDQxMTQ2OF5BMl5BanBnXkFtZTcwMTk3MjAzOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart>http://thesmashable.com/wp-content/uploads/2014/04/wolverine-hugh-jackman-x-men-hd-wallpapers-collection-9.jpg</fanart>
 <info>When Wolverine is summoned to Japan by an old acquaintance, he is embroiled in a conflict that forces him to confront his own demons.</info>
+</item>
+<item>
+<title>The Amazing Spider-Man</title>
+<link>http://dl2.heydl.com/film/2016-4/1/The.Amazing.Spiderman.2012.1080p.3D.HSBS.HeyDL.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spider-Man_theatrical_poster.jpeg</thumbnail>
+<fanart>https://images2.alphacoders.com/247/thumb-1920-247850.jpg</fanart>
+<info>After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to solve the mystery of his parent's mysterious death.</info>
+</item>
+<item>
+<title>The Amazing Spider-Man 2</title>
+<link>http://dl2.heydl.com/film/2016-4/1/The.Amazing.Spider.Man.2.2014.1080p.3D.HSBS.BluRay.x264.HeyDL.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spiderman_2_poster.jpg</thumbnail>
+<fanart>http://orig00.deviantart.net/f0fb/f/2015/001/a/4/the_amazing_spider_man_2_movie_poster_wallpaper__4_by_professoradagio-d8c77wp.png</fanart>
+<info>When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones.</info>
+</item>
+<item>
+<title>Transformers: Dark of the Moon</title>
+<link>http://dl2.heydl.com/film/2016-4/1/Transformers.3.Dark.of.the.Moon.2011.1080p.3D.HSBS.HeyDL.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/bf/Transformers_dark_of_the_moon_ver5.jpg</thumbnail>
+<fanart>http://www.allyngibson.com/wp-content/uploads/2006/05/transformers-dark-of-the-moon.jpg</fanart>
+<info>The Autobots learn of a Cybertronian spacecraft hidden on the moon, and race against the Decepticons to reach it and to learn its secrets.</info>
 </item>
