@@ -21,9 +21,9 @@
 </item>
 <item>
 <title>Doctor Strange</title>
-<link>http://dl2.heydl.com/film/2016-7/Batman.v.Superman.Dawn.of.Justice.2016.3D.1080p.6CH.HeyDL.mkv</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/20/Batman_v_Superman_poster.jpg</thumbnail>
-<fanart>http://www.mediastinger.com/wp-content/uploads/2016/02/Batman-v-Superman-Final-Trailer-hq.jpg</fanart>
+<link>http://dl2.heydl.com/film/2017-2/Doctor.Strange.2016.3D.1080p.6CH.HeyDL.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c7/Doctor_Strange_poster.jpg</thumbnail>
+<fanart>https://images.alphacoders.com/699/thumb-1920-699582.jpg</fanart>
 <info>A former neurosurgeon embarks on a journey of healing only to be drawn into the world of the mystic arts.</info>
 </item>
 <item>
@@ -35,9 +35,9 @@
 </item>
 <item>
 <title>Tron: Legacy</title>
-<link>http://dl2.heydl.com/film/2017-2/Doctor.Strange.2016.3D.1080p.6CH.HeyDL.mkv</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c7/Doctor_Strange_poster.jpg</thumbnail>
-<fanart>https://images.alphacoders.com/699/thumb-1920-699582.jpg</fanart>
+<link>http://dl2.heydl.com/film/2016-7/TRON.Legacy.2010.3D.1080p.Half-SBS.5.1CH.HeyDL.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c2/Tron_Legacy_poster.jpg</thumbnail>
+<fanart>http://www.desktop-screens.com/data/out/118/3578476-tron-legacy-wallpapers.jpg</fanart>
 <info>The son of a virtual world designer goes looking for his father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a unique ally who was born inside the digital world.</info>
 </item>
 <item>
