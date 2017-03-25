@@ -48,6 +48,13 @@
 <info>The Autobots learn of a Cybertronian spacecraft hidden on the moon, and race against the Decepticons to reach it and to learn its secrets.</info>
 </item>
 <item>
+<title>Transformers: Age of Extinction</title>
+<link>http://dl2.heydl.com/film/2016-4/1/Transformers.Age.of.Extinction.2014.1080p.3D.HSBS.HeyDL.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/94/Transformers_Age_of_Extinction_Poster.jpeg</thumbnail>
+<fanart>http://s3.amazonaws.com/digitaltrends-uploads-prod/2014/06/transformers-age-of-extinction.jpg</fanart>
+<info>Autobots must escape sight from a bounty hunter who has taken control of the human serendipity: Unexpectedly, Optimus Prime and his remaining gang turn to a mechanic, his daughter, and her back street racing boyfriend for help.</info>
+</item>
+<item>
 <title>The Amazing Spider-Man 2</title>
 <link>http://dl2.heydl.com/film/2016-4/1/The.Amazing.Spider.Man.2.2014.1080p.3D.HSBS.BluRay.x264.HeyDL.mp4</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spiderman_2_poster.jpg</thumbnail>
