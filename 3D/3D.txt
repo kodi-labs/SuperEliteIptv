@@ -27,6 +27,13 @@
 <info>A former neurosurgeon embarks on a journey of healing only to be drawn into the world of the mystic arts.</info>
 </item>
 <item>
+<title>Iron Man 3</title>
+<link>http://dl2.heydl.com/film/2016-5-/Iron.Man.3.2013.1080p.3D.HSBS.HeyDL.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/d/d5/Iron_Man_3_theatrical_poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/4XJ07onCqAs/maxresdefault.jpg</fanart>
+<info>When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.</info>
+</item>
+<item>
 <title>Thor</title>
 <link>http://dl2.heydl.com/film/2016-8/Thor.2011.1080p.3D.Half-SBS.HeyDL.mkv</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
