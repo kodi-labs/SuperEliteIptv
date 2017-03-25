@@ -6,15 +6,8 @@
 <info>Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.</info>
 </item>
 <item>
-<title>Captain America: Civil War</title>
-<link>http://dl2.heydl.com/film/2016-4/1/Captain.America.The.Winter.Soldier.2014.1080p.5.1CH.HeyDL.mkv</link>
-<thumbnail>http://static.rogerebert.com/uploads/movie/movie_poster/captain-america-civil-war-2016/large_large_5N20rQURev5CNDcMjHVUZhpoCNC.jpg</thumbnail>
-<fanart>https://images.alphacoders.com/669/669681.jpg</fanart>
-<info>Political interference in the Avengers' activities causes a rift between former allies Captain America and Iron Man.</info>
-</item>
-<item>
 <title>Captain America: The Winter Soldier</title>
-<link>https://afdah.org/watch?v=Captain_America_Civil_War_2016#video=8A1XACI421qZc7y6njPpcruyv7ql5h_DDwuiGXU</link>
+<link>http://dl2.heydl.com/film/2016-4/1/Captain.America.The.Winter.Soldier.2014.1080p.5.1CH.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e8/Captain_America_The_Winter_Soldier.jpg</thumbnail>
 <fanart>http://cdn.wallpapersafari.com/54/82/kjS2Xe.jpg</fanart>
 <info>As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.</info>
