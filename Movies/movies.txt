@@ -34,6 +34,13 @@
 <info>Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries: Dominic unexpectedly gets convoluted also facing his presumed deceased girlfriend, Letty.</info>
 </item>
 <item>
+<title>Godzilla</title>
+<link>http://dl2.heydl.com/film/2016-4/1/Godzilla.2014.1080p.HeyDL.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/10/Godzilla_(2014)_poster.jpg</thumbnail>
+<fanart>https://img.yesmovies.to/2016/07/15/cover/7b4278828847b86755289d94afce71e6-godzilla-1468643934.jpg</fanart>
+<info>The world is beset by the appearance of monstrous creatures, but one of them may be the only one who can save humanity.</info>
+</item>
+<item>
 <title>Independence Day: Resurgence</title>
 <link>http://dl2.heydl.com/film/2016-10/Independence.Day.Resurgence.2016.1080p.5.1CH.Ganool.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/5/58/Independence-Day-2-poster.jpg</thumbnail>
