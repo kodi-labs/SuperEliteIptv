@@ -13,6 +13,13 @@
 <info>As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.</info>
 </item>
 <item>
+<title>Captain America: The Winter Snm.n</title>
+<link>http://afdah.tv/embed/3498820</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e8/Captain_America_The_Winter_Soldier.jpg</thumbnail>
+<fanart>http://cdn.wallpapersafari.com/54/82/kjS2Xe.jpg</fanart>
+<info>As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.</info>
+</item>
+<item>
 <title>Deadpool</title>
 <link>http://dl2.heydl.com/film/2016-6/Deadpool.2016.1080p.6CH.x265.HEVC.HeyDL.mkv</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyODg5Njc4N15BMl5BanBnXkFtZTgwMzExMjE3NzE@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
