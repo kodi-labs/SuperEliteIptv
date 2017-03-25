@@ -41,6 +41,13 @@
 <info>The son of a virtual world designer goes looking for his father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a unique ally who was born inside the digital world.</info>
 </item>
 <item>
+<title>Transformers: Dark of the Moon</title>
+<link>http://dl2.heydl.com/film/2016-4/1/Transformers.3.Dark.of.the.Moon.2011.1080p.3D.HSBS.HeyDL.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/bf/Transformers_dark_of_the_moon_ver5.jpg</thumbnail>
+<fanart>http://orig06.deviantart.net/dace/f/2014/144/3/d/transformers_dark_of_the_moon_wallpaper_1920x1080_by_sachso74-d7jlecc.jpg</fanart>
+<info>The Autobots learn of a Cybertronian spacecraft hidden on the moon, and race against the Decepticons to reach it and to learn its secrets.</info>
+</item>
+<item>
 <title>The Amazing Spider-Man 2</title>
 <link>http://dl2.heydl.com/film/2016-4/1/The.Amazing.Spider.Man.2.2014.1080p.3D.HSBS.BluRay.x264.HeyDL.mp4</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spiderman_2_poster.jpg</thumbnail>
