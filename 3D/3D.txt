@@ -48,27 +48,6 @@
 <info>The son of a virtual world designer goes looking for his father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a unique ally who was born inside the digital world.</info>
 </item>
 <item>
-<title>Transformers: Dark of the Moon</title>
-<link>http://dl2.heydl.com/film/2016-4/1/Transformers.3.Dark.of.the.Moon.2011.1080p.3D.HSBS.HeyDL.mp4</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/bf/Transformers_dark_of_the_moon_ver5.jpg</thumbnail>
-<fanart>http://orig06.deviantart.net/dace/f/2014/144/3/d/transformers_dark_of_the_moon_wallpaper_1920x1080_by_sachso74-d7jlecc.jpg</fanart>
-<info>The Autobots learn of a Cybertronian spacecraft hidden on the moon, and race against the Decepticons to reach it and to learn its secrets.</info>
-</item>
-<item>
-<title>Transformers: Age of Extinction</title>
-<link>http://dl2.heydl.com/film/2016-4/1/Transformers.Age.of.Extinction.2014.1080p.3D.HSBS.HeyDL.mp4</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/94/Transformers_Age_of_Extinction_Poster.jpeg</thumbnail>
-<fanart>http://s3.amazonaws.com/digitaltrends-uploads-prod/2014/06/transformers-age-of-extinction.jpg</fanart>
-<info>Autobots must escape sight from a bounty hunter who has taken control of the human serendipity: Unexpectedly, Optimus Prime and his remaining gang turn to a mechanic, his daughter, and her back street racing boyfriend for help.</info>
-</item>
-<item>
-<title>The Amazing Spider-Man 2</title>
-<link>http://dl2.heydl.com/film/2016-4/1/The.Amazing.Spider.Man.2.2014.1080p.3D.HSBS.BluRay.x264.HeyDL.mp4</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spiderman_2_poster.jpg</thumbnail>
-<fanart>http://pic1.win4000.com/wallpaper/7/5327dc477cc15.jpg</fanart>
-<info>When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones.</info>
-</item>
-<item>
 <title>X-Men: Apocalypse</title>
 <link>http://dl2.heydl.com/film/2016-9/X-Men.Apocalypse.2016.1080p.3D.HSBS.6CH.HeyDL.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/04/X-Men_-_Apocalypse.jpg</thumbnail>
