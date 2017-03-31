@@ -101,7 +101,7 @@
 <title>Transformers: Dark of the Moon</title>
 <link>http://dl.my-film.org/reza/film/Transformers.Dark.Of.The.Moon.2011.1080p.6CH.x265.HEVC-[My-Film].mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/bf/Transformers_dark_of_the_moon_ver5.jpg</thumbnail>
-<fanart>http://more-sky.com/data/out/12/IMG_578378.jpg</fanart>
+<fanart>http://orig03.deviantart.net/ebf2/f/2014/144/e/6/transformers_dark_of_the_moon_wallpaper_1920x1080_by_sachso74-d7jldtn.jpg</fanart>
 <info>The Autobots learn of a Cybertronian spacecraft hidden on the moon, and race against the Decepticons to reach it and to learn its secrets.</info>
 </item>
 <item>
