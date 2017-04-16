@@ -4,7 +4,7 @@
 <channels>
 <channel>
 <name>Live TV</name>
-<thumbnail>https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Live_TV.png</thumbnail>
+<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/LiveTV.txt</externallink>
 <fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
 <info> </info>
