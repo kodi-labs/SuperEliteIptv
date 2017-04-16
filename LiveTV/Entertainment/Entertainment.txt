@@ -1,7 +1,7 @@
 <item>
 <title>5 Star Max</title>
 <link>http://www.channelup.tv/live-streams/gsn-hd-live-stream.html</link>
-<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/d/da/5_StarMax_2011.svg/revision/latest?cb=20160721191823</thumbnail>
+<thumbnail>http://static.ontvtonight.com/static/2/Open/SourceLogos/400x300/5StarMax-HD.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
