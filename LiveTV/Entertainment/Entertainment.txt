@@ -1,7 +1,7 @@
 <item>
 <title>5 Star Max</title>
 <link>http://www.channelup.tv/live-streams/gsn-hd-live-stream.html</link>
-<thumbnail>http://files.on-tapp-networks.com/logos/arctic/Arctic%20Zephyr%20Logos/Cinemax%205%20Star.png</thumbnail>
+<thumbnail>http://static.ontvtonight.com/static/2/Open/SourceLogos/400x300/5StarMax-HD.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
@@ -13,13 +13,13 @@
 <item>
 <title>Action Max</title>
 <link>http://ok2.se:8000/live/veronicamedwards@dayrep.com/mtuesfwt/383.m3u8</link>
-<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/action_max_us.jpg</thumbnail>
+<thumbnail>http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/action%20max.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>AMC</title>
 <link>http://ok2.se:8000/live/veronicamedwards@dayrep.com/mtuesfwt/334.m3u8</link>
-<thumbnail>http://home.bt.com/images/amc-logo-136399633990403901-150807153713.jpg</thumbnail>
+<thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/8/84/AMC_HD.png/revision/latest?cb=20110408022156</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
