@@ -19,7 +19,7 @@
 <item>
 <title>AMC</title>
 <link>http://ok2.se:8000/live/veronicamedwards@dayrep.com/mtuesfwt/334.m3u8</link>
-<thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/8/84/AMC_HD.png/revision/latest?cb=20110408022156</thumbnail>
+<thumbnail>https://www.xs4all.nl/upload/7acde09f-8474-4a30-8520-983ce11c02ac_image5758306780532125620.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
