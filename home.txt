@@ -2,7 +2,6 @@
 
 
 <channels>
-
 <channel>
 <name>Live TV</name>
 <thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
@@ -42,5 +41,4 @@
 <fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
 <info> </info>
 </channel>
-
 </channels>
