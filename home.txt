@@ -28,7 +28,7 @@
 
 <channel>
 <name>3D</name>
-<thumbnail>http://www.iconninja.com/files/487/955/634/3d-glasses-icon.svg</thumbnail>
+<thumbnail>http://icons.iconarchive.com/icons/designbolts/free-multimedia/1024/3D-Glasses-icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/3D/3D.txt</externallink>
 <fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
 <info> </info>
