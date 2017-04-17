@@ -28,7 +28,7 @@
 </channel>
 
 <channel>
-<name>3D</name>
+<name>36</name>
 <thumbnail>https://cdn3.iconfinder.com/data/icons/3d-printing-icon-set/512/3d.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/3D/3D.txt</externallink>
 <fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
