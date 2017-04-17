@@ -7,7 +7,7 @@
 <name>Entertainment</name>
 <thumbnail>http://www.chromeinfotech.com/industries/images/entertainment-icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/Entertainment/Entertainment.txt</externallink>
-<fanart>http://tablet24h.com/m/2016/11/Interior-design-living-room-wallpaper-living-room-theaters-portland-Living-Room-movie-theaters-Laurelhurst-Theater-awesome-living-room-theaters.jpg</fanart>
+<fanart>http://okdesigninterior.com/images/_fullsize/a/admirable-living-plus-image-plus-living-room-ideas-living-room-ideas_modern-living-rooms.jpg</fanart>
 <info> </info>
 </channel>
 
@@ -15,7 +15,7 @@
 <name>Kids</name>
 <thumbnail>http://mallishok.ru/wp-content/uploads/2014/11/%D0%B8%D0%B3%D1%80%D1%83%D1%88%D0%BA%D0%B82.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/Kids/Kids.txt</externallink>
-<fanart>http://tablet24h.com/m/2016/11/Interior-design-living-room-wallpaper-living-room-theaters-portland-Living-Room-movie-theaters-Laurelhurst-Theater-awesome-living-room-theaters.jpg</fanart>
+<fanart>http://okdesigninterior.com/images/_fullsize/a/admirable-living-plus-image-plus-living-room-ideas-living-room-ideas_modern-living-rooms.jpg</fanart>
 <info> </info>
 </channel>
 
@@ -23,7 +23,7 @@
 <name>News</name>
 <thumbnail>http://www.a1dedicatedservers.com/images/news.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/News/News.txt</externallink>
-<fanart>http://tablet24h.com/m/2016/11/Interior-design-living-room-wallpaper-living-room-theaters-portland-Living-Room-movie-theaters-Laurelhurst-Theater-awesome-living-room-theaters.jpg</fanart>
+<fanart>http://okdesigninterior.com/images/_fullsize/a/admirable-living-plus-image-plus-living-room-ideas-living-room-ideas_modern-living-rooms.jpg</fanart>
 <info> </info>
 </channel>
 
@@ -31,7 +31,7 @@
 <name>Sports</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/Sports/Sports.txt</externallink>
-<fanart>http://tablet24h.com/m/2016/11/Interior-design-living-room-wallpaper-living-room-theaters-portland-Living-Room-movie-theaters-Laurelhurst-Theater-awesome-living-room-theaters.jpg</fanart>
+<fanart>http://okdesigninterior.com/images/_fullsize/a/admirable-living-plus-image-plus-living-room-ideas-living-room-ideas_modern-living-rooms.jpg</fanart>
 <info> </info>
 </channel>
 
