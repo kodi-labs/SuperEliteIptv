@@ -37,7 +37,7 @@
 <channel>
 <name>4K</name>
 <thumbnail>https://lh4.ggpht.com/WyUYSAT0uHfHvV2tsqDR10YCMchsseoaTKqgmZAyIndf0aEe-xgWyXJTYBTqYWj9sGA=w300</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/4K/4K.txt</externallink>
 <fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
 <info> </info>
 </channel>
