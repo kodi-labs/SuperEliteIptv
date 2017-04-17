@@ -33,5 +33,4 @@
 <fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
 <info> </info>
 </channel>
-
 </channels>
