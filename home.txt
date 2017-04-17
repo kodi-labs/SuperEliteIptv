@@ -2,6 +2,7 @@
 
 
 <channels>
+
 <channel>
 <name>Live TV</name>
 <thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
