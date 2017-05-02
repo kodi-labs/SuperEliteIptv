@@ -100,14 +100,14 @@
 <item>
 <title>Transformers: Dark of the Moon</title>
 <link>http://dl.my-film.org/reza/film/Transformers.Dark.Of.The.Moon.2011.1080p.6CH.x265.HEVC-[My-Film].mkv</link>
-<thumbnail></thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1_SY1000_CR0,0,668,1000_AL_.jpg</thumbnail>
 <fanart>http://orig03.deviantart.net/ebf2/f/2014/144/e/6/transformers_dark_of_the_moon_wallpaper_1920x1080_by_sachso74-d7jldtn.jpg</fanart>
 <info>The Autobots learn of a Cybertronian spacecraft hidden on the moon, and race against the Decepticons to reach it and to learn its secrets.</info>
 </item>
 <item>
 <title>Transformers: Age of Extinction</title>
 <link>http://dl2.heydl.com/film/2016-4/1/Transformers.Age.of.Extinction.2014.1080p.5.1CH.HeyDL.mkv</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1_SY1000_CR0,0,668,1000_AL_.jpg</thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwNTg1MTA5Nl5BMl5BanBnXkFtZTgwOTg2OTM4MTE@._V1_SY1000_CR0,0,640,1000_AL_.jpg</thumbnail>
 <fanart>http://s3.amazonaws.com/digitaltrends-uploads-prod/2014/06/transformers-age-of-extinction.jpg</fanart>
 <info>Autobots must escape sight from a bounty hunter who has taken control of the human serendipity: Unexpectedly, Optimus Prime and his remaining gang turn to a mechanic, his daughter, and her back street racing boyfriend for help.</info>
 </item>
