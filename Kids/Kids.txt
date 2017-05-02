@@ -1,42 +1,42 @@
 <item>
 <title>Ice Age: Collision Course</title>
 <link>http://dl2.heydl.com/film/2016-9/Ice.Age.Collision.Course.2016.1080p.6CH.HeyDL.mkv</link>
-<thumbnail>http://s3.foxmovies.com/foxmovies/production/films/116/images/posters/481-film-page-large.jpg</thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMTk2ODc1OV5BMl5BanBnXkFtZTgwMzU4MzgzOTE@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart>http://www.hdwallpapers.in/walls/ice_age_collision_course_5k-wide.jpg</fanart>
 <info>Manny, Diego, and Sid join up with Buck to fend off a meteor strike that would destroy the world.</info>
 </item>
 <item>
 <title>Kung Fu Panda 3</title>
 <link>http://dl2.heydl.com/film/2016-7/Kung.Fu.Panda%203.2016.1080p.HeyDL.mkv</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e6/Kung_Fu_Panda_3_poster.jpg</thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_.jpg</thumbnail>
 <fanart>http://www.kungfupandamovie-ph.com/img/main/background.jpg</fanart>
 <info>Continuing his "legendary adventures of awesomeness", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to his home.</info>
 </item>
 <item>
 <title>Penguins of Madagascar</title>
 <link>http://dl2.heydl.com/film/2016-4/Penguins.of.Madagascar.2014.1080p.5.1CH.HeyDL.mkv</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/Penguins_of_Madagascar_poster.jpg</thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTEyMDg4MDU4MjdeQTJeQWpwZ15BbWU4MDQyOTc3MjIx._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://images8.alphacoders.com/533/533250.jpg</fanart>
 <info>Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it.</info>
 </item>
 <item>
 <title>Shaun the Sheep Movie</title>
 <link>http://dl2.heydl.com/film/2016-4/2/Shaun.the.Sheep.Movie.2015.1080p.5.1CH.HeyDL.mkv</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/01/Shaun_the_Sheep_MoviePoster.jpg</thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTc1ODY5MTQ1Nl5BMl5BanBnXkFtZTgwMDM5ODI1NjE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>http://www.indiewire.com/wp-content/uploads/2015/07/shaun-the-sheep-movie.jpg</fanart>
 <info>When Shaun decides to take the day off and have some fun, he gets a little more action than he bargained for. A mix up with the Farmer, a caravan and a very steep hill lead them all to the Big City and it's up to Shaun and the flock to return everyone safely to the green grass of home.</info>
 </item>
 <item>
 <title>Turbo</title>
 <link>http://dl2.heydl.com/film/2016-5-/Turbo.2013.1080p.HeyDL.mkv</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b9/Turbo_(film)_poster.jpg</thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTA4NTgwMjM5MzheQTJeQWpwZ15BbWU3MDg2ODA1ODk@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/F-L5bzwdpVI/maxresdefault.jpg</fanart>
 <info>A freak accident might just help an everyday garden snail achieve his biggest dream: winning the Indy 500.</info>
 </item>
 <item>
 <title>The Adventures of Tintin</title>
 <link>http://dl2.heydl.com/film/2016-7/The.Adventures.of.Tintin.2011.1080p.HeyDL.mkv</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/a/a1/The_Adventures_of_Tintin_-_Secret_of_the_Unicorn.jpg</thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDE5MDExNTQ1OF5BMl5BanBnXkFtZTcwMDIxMTM5Ng@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>http://cdn.collider.com/wp-content/uploads/the-adventures-of-tintin-movie-image-8.jpg</fanart>
 <info>ntrepid reporter Tintin and Captain Haddock set off on a treasure hunt for a sunken ship commanded by Haddock's ancestor.</info>
 </item>
