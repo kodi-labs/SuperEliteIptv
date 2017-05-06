@@ -1,49 +1,14 @@
 <item>
-<title>The Revenant</title>
-<link>http://109.236.94.12/Downloads/The.Revenant.2015.2160p.4K.UHD.HQ.10bit.BluRay.8CH.x265.HEVC-MZABI.mkv</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2FmODc2N2QtYmY3MS00YTMwLWI2NGYtZWRmYWVkNjFjZmI0XkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_.jpg</thumbnail>
-<fanart>http://wallpapersqq.net/wp-content/uploads/2016/02/Tom-Hardy-The-Revenant.jpg</fanart>
-<info>A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.</info>
+<title>Passengers</title>
+<link>https://www80.uptostream.com/38dx7og6ddb/2160/0/video.mp4|Cookie=__cfduid%3Ddb721077403451a459096847e81a81aa71494100763%3B+expires%3DSun%2C+06-May-18+19%3A59%3A23+GMT%3B+path%3D%2F%3B+domain%3D.uptostream.com%3B+HttpOnly&Referer=https%3A%2F%2Fuptostream.com%2Fiframe%2Fwcvzsozsm6bk&User-Agent=Mozilla%2F5.0+%28Windows+NT+5.0%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4MjU3MDIzOF5BMl5BanBnXkFtZTgwMjM2MzY2MDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://www.hdwallpapers.in/walls/passengers_2016_movie-wide.jpg</fanart>
+<info>A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.</info>
 </item>
 <item>
-<title>The 5th Wave</title>
-<link>http://109.236.94.12/Downloads/The%205th%20Wave%202016%202160p%204K%20UHD%20BluRay%20HEVC%2010bit%20DTS-HD%205.1%20-DDR/The%205th%20Wave%202016%202160p%204K%20UHD%20BluRay%20HEVC%2010bit%20DTS-HD%205.1%20-DDR.mkv</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwOTc0Mzg3Nl5BMl5BanBnXkFtZTgwOTg3NjI2NzE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>http://www.hdwallpapers.in/walls/the_5th_wave_movie-wide.jpg</fanart>
-<info>four waves of increasingly deadly attacks have left most of Earth decimated. Against a backdrop of fear and distrust, Cassie is on the run, desperately trying to save her younger brother. As she prepares for the inevitable and lethal 5th wave, Cassie teams up with a young man who may become her final hope - if she can only trust him.</info>
-</item>
-<item>
-<title>Mission: Impossible - Rogue Nation</title>
-<link>http://109.236.94.12/Downloads/Mission%20Impossible%20Rogue%20Nation%202015%202160p%20WEB-DL%20x264%20DTS-ABI/Mission.Impossible.Rogue.Nation.2015.2160p.WEB-DL.x264.DTS-ABI.mkv</link>
-<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQ2QqFVBlMs6FLqvr_q_NiiylRGzbt47aGTDCHdEEOZqp8zclxe</thumbnail>
-<fanart>http://i1.wp.com/geeknewsnetwork.net/wp-content/uploads/2015/07/tom-cruise-mission-impossible-5-rogue-nation-2015-bmw-s1000rr-motorbike-wallpaper.jpg</fanart>
-<info>Ethan and team take on their most impossible mission yet, eradicating the Syndicate - an International rogue organization as highly skilled as they are, committed to destroying the IMF.</info>
-</item>
-<item>
-<title>Deepwater Horizon</title>
-<link>http://109.236.94.12/Downloads/Deepwater%20Horizon%20(2016)%202160p%204K%20UltraHD%20BluRay%20HEVC%2010%20Bits%20Dolby%20ATMOS%207.1%20-DDR/Deepwater%20Horizon%20(2016)%202160p%204K%20UltraHD%20BluRay%20HEVC%2010%20Bits%20Dolby%20ATMOS%207.1%20-DDR.mkv</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTEzNDU0OTgxM15BMl5BanBnXkFtZTgwNjA0ODM2OTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://www.uhdwallpaper.us/wp-content/uploads/Deepwater-Horizon-2016-Movie-Poster-HD-Wallpaper.jpg</fanart>
-<info>On April 20th, 2010, one of the world's largest man-made disasters occurred on the Deepwater Horizon in the Gulf of Mexico. This story honors the brave men and women whose heroism would save many on board, and change everyone's lives forever.</info>
-</item>
-<item>
-<title>Rogue One</title>
-<link>http://109.236.94.12/Downloads/Rogue.One.A.Star.Wars.Story.4K.HDR.10bit.BT2020.Chroma.422.Edition.DTS.HD.MA-VISIONPLUSHDR1000/Rogue.One.A.Star.Wars.Story.4K.HDR.10bit.BT2020.Chroma.422.Edition.DTS.HD.MA-VISIONPLUSHDR1000.mp4</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>http://www.moviedeskback.com/wp-content/uploads/2016/04/Rogue_One_A_Star_Wars_Story_Screencaps-7.jpg</fanart>
-<info>From Lucasfilm comes the first of the Star Wars standalone films, "Rogue One: A Star Wars Story," an all-new epic adventure. In a time of conflict, a group of unlikely heroes band together on a mission to steal the plans to the Death Star, the Empire's ultimate weapon of destruction. This key event in the Star Wars timeline brings together ordinary people who choose to do extraordinary things, and in doing so, become part of something greater than themselves.</info>
-</item>
-<item>
-<title>The Martian</title>
-<link>http://109.236.94.12/Downloads/The%20Martian%202015%20Multi%202160p%204K%20UHD%20Bluray%20HEVC10%20SDR%20DTSHD%207.1%20-Zeus/The%20Martian%202015%20Multi%202160p%20UHD%20HEVC10%20SDR%20DTSHD%207.1%20-Zeus.mkv</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>http://wallpapersinsider.com/wp-content/uploads/2016/04/The-Martian-Wallpaper.jpg</fanart>
-<info>During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive. Millions of miles away, NASA and a team of international scientists work tirelessly to bring "the Martian" home, while his crewmates concurrently plot a daring, if not impossible, rescue mission. As these stories of incredible bravery unfold, the world comes together to root for Watney's safe return.</info>
-</item>
-<item>
-<title>The Revenant</title>
-<link>https://www66.uptostream.com/38dslg49b7b/2160/0/video.mp4%7CCookie=__cfduid%3Dd4b00e8813c5d7aa3ef41614f2d533d191494100114%3B+expires%3DSun%2C+06-May-18+19%3A48%3A34+GMT%3B+path%3D%2F%3B+domain%3D.uptostream.com%3B+HttpOnly&Referer=https%3A%2F%2Fuptostream.com%2Fiframe%2Fga9garh034kq&User-Agent=Mozilla%2F5.0+%28Windows+NT+5.0%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2FmODc2N2QtYmY3MS00YTMwLWI2NGYtZWRmYWVkNjFjZmI0XkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_.jpg</thumbnail>
-<fanart>http://wallpapersqq.net/wp-content/uploads/2016/02/Tom-Hardy-The-Revenant.jpg</fanart>
-<info>A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.</info>
+<title>The Amazing Spider-Man</title>
+<link>https://www90.uptostream.com/38dzkegb3cd/2160/0/video.mp4|Cookie=__cfduid%3Dd7a8baf1b3e20561a5d9ce9637d0493431494101121%3B+expires%3DSun%2C+06-May-18+20%3A05%3A21+GMT%3B+path%3D%2F%3B+domain%3D.uptostream.com%3B+HttpOnly&Referer=https%3A%2F%2Fuptostream.com%2Fiframe%2Fyjo7qgfccdiz&User-Agent=Mozilla%2F5.0+%28Windows+NT+5.0%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://mastimasaala.com/wp-content/uploads/2012/07/the-amazing-spider-man-2012-wallpaper.jpg</fanart>
+<info>The story of Peter Parker, an outcast high schooler who was abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. Peter is also finding his way with his first high school crush, Gwen Stacy, and together, they struggle with love, commitment, and secrets. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance - leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter-ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.</info>
 </item>
