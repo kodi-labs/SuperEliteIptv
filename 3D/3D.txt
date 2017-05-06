@@ -45,7 +45,7 @@
 <link>http://dl2.heydl.com/film/2016-4/1/Transformers.3.Dark.of.the.Moon.2011.1080p.3D.HSBS.HeyDL.mp4</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1_SY1000_CR0,0,668,1000_AL_.jpg</thumbnail>
 <fanart>http://orig03.deviantart.net/ebf2/f/2014/144/e/6/transformers_dark_of_the_moon_wallpaper_1920x1080_by_sachso74-d7jldtn.jpg</fanart>
-<info>When a mysterious event from Earth's past erupts into the present day, it threatens to bring a war to Earth so big that the Transformers alone will not be able to save us.</info>
+<info>The Autobots learn of a Cybertronian spacecraft hidden on the moon, and race against the Decepticons to reach it and to learn its secrets.</info>
 </item>
 <item>
 <title>Transformers: Age of Extinction</title>
