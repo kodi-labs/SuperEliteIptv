@@ -40,3 +40,10 @@
 <fanart>http://wallpapersinsider.com/wp-content/uploads/2016/04/The-Martian-Wallpaper.jpg</fanart>
 <info>During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive. Millions of miles away, NASA and a team of international scientists work tirelessly to bring "the Martian" home, while his crewmates concurrently plot a daring, if not impossible, rescue mission. As these stories of incredible bravery unfold, the world comes together to root for Watney's safe return.</info>
 </item>
+<item>
+<title>The Revenant</title>
+<link>https://www66.uptostream.com/38dslg49b7b/2160/0/video.mp4%7CCookie=__cfduid%3Dd4b00e8813c5d7aa3ef41614f2d533d191494100114%3B+expires%3DSun%2C+06-May-18+19%3A48%3A34+GMT%3B+path%3D%2F%3B+domain%3D.uptostream.com%3B+HttpOnly&Referer=https%3A%2F%2Fuptostream.com%2Fiframe%2Fga9garh034kq&User-Agent=Mozilla%2F5.0+%28Windows+NT+5.0%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2FmODc2N2QtYmY3MS00YTMwLWI2NGYtZWRmYWVkNjFjZmI0XkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_.jpg</thumbnail>
+<fanart>http://wallpapersqq.net/wp-content/uploads/2016/02/Tom-Hardy-The-Revenant.jpg</fanart>
+<info>A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.</info>
+</item>
