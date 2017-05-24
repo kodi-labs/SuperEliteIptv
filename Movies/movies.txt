@@ -14,7 +14,7 @@
 </item>
 <item>
 <title>Captain America: Civil War</title>
-<link>http://dl.my-film.org/reza/film/Captain.America.Civil.War.2016.1080p.BluRay.X264-AMIABLE-[My-Film].mkv</link>
+<link>http://bit.ly/2flGdIC</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://images.alphacoders.com/669/669681.jpg</fanart>
 <info>Political interference in the Avengers' activities causes a rift between former allies Captain America and Iron Man.</info>
@@ -99,7 +99,7 @@
 </item>
 <item>
 <title>Transformers: Dark of the Moon</title>
-<link>http://dl.my-film.org/reza/film/Transformers.Dark.Of.The.Moon.2011.1080p.6CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl2.heydl.org/film/2016-4/1/Transformers.3.Dark.of.The.Moon.2011.1080p.HeyDL.mkv</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1_SY1000_CR0,0,668,1000_AL_.jpg</thumbnail>
 <fanart>http://orig03.deviantart.net/ebf2/f/2014/144/e/6/transformers_dark_of_the_moon_wallpaper_1920x1080_by_sachso74-d7jldtn.jpg</fanart>
 <info>The Autobots learn of a Cybertronian spacecraft hidden on the moon, and race against the Decepticons to reach it and to learn its secrets.</info>
