@@ -23,6 +23,12 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
+<title>ABC</title>
+<link>http://ok2.se:8000/live/rex@gmail.com/cjtsayqp/10.m3u8</link>
+<thumbnail>http://cimg.tvgcdn.net/i/r/2015/01/14/b6a68d87-4a4e-4559-a02c-0a6d0d47cb1a/thumbnail/1300x867/f13cdf13834a99f75a53f77ca625741c/150114-news-abc-logo.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
 <title>CTV</title>
 <link>http://ok2.se:8000/live/rex@gmail.com/cjtsayqp/2398.m3u8</link>
 <thumbnail>http://static.ctv.ca/get-bm-media/635978803631770556/5763dfaf-f3a4-4e15-9426-496994caf642/0/0</thumbnail>
@@ -113,12 +119,6 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>ABC</title>
-<link>http://ok2.se:8000/live/rex@gmail.com/cjtsayqp/10.m3u8</link>
-<thumbnail>http://cdn1.ssninsider.com/wp-content/uploads/2014/05/abc-logo.jpg</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
-</item>
-<item>
 <title>The CW</title>
 <link>http://ok2.se:8000/live/rex@gmail.com/cjtsayqp/359.m3u8</link>
 <thumbnail>https://www.brandeps.com/logo-download/T/The-CW-01.png</thumbnail>
@@ -151,7 +151,7 @@
 <item>
 <title>HLN</title>
 <link>http://ok2.se:8000/live/rex@gmail.com/cjtsayqp/362.m3u8</link>
-<thumbnail>http://www.petitionbuzz.com/uploaded/131206f21f42e9dd88dbf2477a76d9255bdaab.png</thumbnail>
+<thumbnail>http://www.newscaststudio.com/wp-content/uploads/2014/10/hln-logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
@@ -265,7 +265,7 @@
 <item>
 <title>Velocity</title>
 <link>http://ok2.se:8000/live/rex@gmail.com/cjtsayqp/367.m3u8</link>
-<thumbnail>http://bbs.typhoon.gov.cn/attachment/Mon_1304/65_31015_bc9b30e7cd7abf9.jpg</thumbnail>
+<thumbnail>http://www.blogcdn.com/www.autoblog.com/media/2011/09/velocity-tv.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
@@ -354,7 +354,7 @@
 <item>
 <title>Starz</title>
 <link>http://ok2.se:8000/live/rex@gmail.com/cjtsayqp/374.m3u8</link>
-<thumbnail>http://logo-city.org/data_images/4336/E4D/100033.png</thumbnail>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0019/4748/brand.gif?itok=3qe7Utdk</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
