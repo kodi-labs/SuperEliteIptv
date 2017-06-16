@@ -49,7 +49,7 @@
 <item>
 <title>CBC News</title>
 <link>http://ok2.se:8000/live/rex@gmail.com/cjtsayqp/361.ts</link>
-<thumbnail>https://pbs.twimg.com/profile_images/466664981673410560/886Az0vu.jpeg</thumbnail>
+<thumbnail>http://www.cbc.ca/revenuegroup/assets_c/2013/02/cbcnn-logo-gallery-thumb-638xauto-275462.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
