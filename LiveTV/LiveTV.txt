@@ -30,7 +30,7 @@
 <channel>
 <name>Sports</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/Sports/Sports.txt</externallink>
+<externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/Sports/Sports.xml</externallink>
 <fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
 <info> </info>
 </channel>
