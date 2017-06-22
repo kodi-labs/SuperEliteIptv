@@ -58,7 +58,7 @@
 <title>Tron: Legacy</title>
 <link>http://dl2.heydl.com/film/2016-7/TRON.Legacy.2010.3D.1080p.Half-SBS.5.1CH.HeyDL.mkv</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4NTk4MTk1OF5BMl5BanBnXkFtZTcwNTE2MDIwNA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://www.todo-fondos.com/wp-content/uploads/2012/06/tron-legacy-war.jpg</fanart>
+<fanart>https://images4.alphacoders.com/262/thumb-1920-262838.jpg</fanart>
 <info>The son of a virtual world designer goes looking for his father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a unique ally who was born inside the digital world.</info>
 </item>
 <item>
