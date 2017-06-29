@@ -1,13 +1,31 @@
 <item>
+<title>ABC News</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8</link>
+<thumbnail>http://www.danielcameronmd.com/images/news-abc.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>BBC World News</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   arweaccreas@teleworm.us/mtwcdbpx/4856.ts</link>
+<thumbnail>https://sites.google.com/site/immiszalik/_/rsrc/1472847832919/2-miznarodni-agenciie-novin-cnn-vvs-reuters-ta-insi/BBC_WorldNews_Stack_Rev_RGB%20%281%29.jpg?height=149&width=200</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
 <title>CNN</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   arweaccreas@teleworm.us/mtwcdbpx/360.ts</link>
 <thumbnail>http://bammarijuana.com/wp-content/uploads/2016/02/CNN-International-Logo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>ABC News</title>
-<link>http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8</link>
-<thumbnail>http://www.danielcameronmd.com/images/news-abc.jpg</thumbnail>
+<title>CBC News</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   arweaccreas@teleworm.us/mtwcdbpx/361.ts</link>
+<thumbnail>http://www.cbc.ca/revenuegroup/assets_c/2013/02/cbcnn-logo-gallery-thumb-638xauto-275462.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>CTV News</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   arweaccreas@teleworm.us/mtwcdbpx/2423.ts</link>
+<thumbnail>https://www.brandeps.com/logo-download/C/CTV-News-01.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
@@ -44,18 +62,6 @@
 <title>ESPN News</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   arweaccreas@teleworm.us/mtwcdbpx/4065.ts</link>
 <thumbnail>http://www.ilovesatellitetv.com/images/espn-news-logo.gif</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
-</item>
-<item>
-<title>CBC News</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   arweaccreas@teleworm.us/mtwcdbpx/361.ts</link>
-<thumbnail>http://www.cbc.ca/revenuegroup/assets_c/2013/02/cbcnn-logo-gallery-thumb-638xauto-275462.jpg</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
-</item>
-<item>
-<title>CTV News</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   arweaccreas@teleworm.us/mtwcdbpx/2423.ts</link>
-<thumbnail>https://www.brandeps.com/logo-download/C/CTV-News-01.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
