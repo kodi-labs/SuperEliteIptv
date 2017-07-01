@@ -4,7 +4,7 @@
 
 <channels>
 <channel>
-<name>ALL</name>
+<name>All</name>
 <thumbnail>https://cdn2.iconfinder.com/data/icons/dark-action-bar-2/96/select_all-512.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/ALL/All.txt</externallink>
 <fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
