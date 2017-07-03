@@ -689,9 +689,21 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
+<title>AND 1 24x7</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   AshleyJSmith@teleworm.us/gyjhgkdt/7833.ts</link>
+<thumbnail>http://www.officialpsds.com/images/thumbs/And-1-psd4077.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
 <title>The Dude Perfect Show 24x7</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   AshleyJSmith@teleworm.us/gyjhgkdt/5871.ts</link>
 <thumbnail>https://lh3.googleusercontent.com/8yFuJTCS-Ue6sTsWB2ng-Mq9MvEFz4yetI05cE9u1-z5UrwoiU_XvetjdeTg9MnkThke=w1264</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>LFC TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   AshleyJSmith@teleworm.us/gyjhgkdt/221.ts</link>
+<thumbnail>https://pbs.twimg.com/profile_images/529559315049238528/_Y6PqLxc.jpeg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
