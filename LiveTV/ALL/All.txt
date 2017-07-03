@@ -59,6 +59,30 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
+<title>CBS Action</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/  AshleyJSmith@teleworm.us/gyjhgkdt/7184.ts</link>
+<thumbnail>http://www.british-tv-anywhere.com/wp-content/uploads/CBS-Action.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>CBS Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/  AshleyJSmith@teleworm.us/gyjhgkdt/7186.ts</link>
+<thumbnail>http://satkurier.pl/uploads/44825.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>CBS Reality</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/  AshleyJSmith@teleworm.us/gyjhgkdt/7187.ts</link>
+<thumbnail>http://www.watchallchannels.com/wp-content/uploads/2015/02/CBS-Reality-TV.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>Cooking Channel</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/  AshleyJSmith@teleworm.us/gyjhgkdt/6108.ts</link>
+<thumbnail>https://pbs.twimg.com/profile_images/707608054225833984/0oB_sFGh.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
 <title>5 Star Max</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   AshleyJSmith@teleworm.us/gyjhgkdt/382.ts</link>
 <thumbnail>http://static.ontvtonight.com/static/2/Open/SourceLogos/400x300/5StarMax-HD.png</thumbnail>
