@@ -113,7 +113,7 @@
 </item>
 <item>
 <title>Terminator Genisys</title>
-<link>http://dl2.heydl.com/film/2016-4/2/Terminator.Genisys.2015.1080p.5.1CH.HeyDL.mkv</link>
+<link>http://dl2.heydl.org/film/2016-4/2/Terminator.Genisys.2015.1080p.5.1CH.HeyDL.mkv</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1_.jpg</thumbnail>
 <fanart>http://s1.1zoom.net/big0/94/Terminator_Genisys_439594.jpg</fanart>
 <info>When John Connor, leader of the human resistance, sends Sgt. Kyle Reese back to 1984 to protect Sarah Connor and safeguard the future, an unexpected turn of events creates a fractured timeline.</info>
