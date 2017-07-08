@@ -1,144 +1,144 @@
 <item>
 <title>The Fresh Prince of Bel-Air 24x7</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    LaylaHunt@armyspy.com/dwparfmj/7834.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    VilmundinaSigfusdottir@armyspy.com/ pjjjenem/7834.ts</link>
 <thumbnail>https://img.yescdn.ru/2016/03/17/poster/b9ca38b80ec5a6594d507de54cb08870-the-fresh-prince-of-bel-air-season-2.jpeg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Star Wars: The Clone Wars 24x7</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    LaylaHunt@armyspy.com/dwparfmj/7835.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    VilmundinaSigfusdottir@armyspy.com/ pjjjenem/7835.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/02/Star_Wars_The_Clone_Wars.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Just for Laughs 24x7</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    LaylaHunt@armyspy.com/dwparfmj/6130.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    VilmundinaSigfusdottir@armyspy.com/ pjjjenem/6130.ts</link>
 <thumbnail>https://media.livenation.com/artists/143927/143927-tap-125480.jpg?1450133246</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>007 4 LIFE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    LaylaHunt@armyspy.com/dwparfmj/7493.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    VilmundinaSigfusdottir@armyspy.com/ pjjjenem/7493.ts</link>
 <thumbnail>http://www.vector-logo.net/logo_preview/eps/0-9/007.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>80'S ACTION Movies</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    LaylaHunt@armyspy.com/dwparfmj/7497.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    VilmundinaSigfusdottir@armyspy.com/ pjjjenem/7497.ts</link>
 <thumbnail>http://www.gmkfreelogos.com/logos/T/img/The_80_s.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>80'S Comedy Movies</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    LaylaHunt@armyspy.com/dwparfmj/7496.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    VilmundinaSigfusdottir@armyspy.com/ pjjjenem/7496.ts</link>
 <thumbnail>http://www.gmkfreelogos.com/logos/T/img/The_80_s.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>80'S Drama Movies</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    LaylaHunt@armyspy.com/dwparfmj/7495.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    VilmundinaSigfusdottir@armyspy.com/ pjjjenem/7495.ts</link>
 <thumbnail>http://www.gmkfreelogos.com/logos/T/img/The_80_s.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>80'S Horror Movies</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    LaylaHunt@armyspy.com/dwparfmj/7494.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    VilmundinaSigfusdottir@armyspy.com/ pjjjenem/7494.ts</link>
 <thumbnail>http://www.gmkfreelogos.com/logos/T/img/The_80_s.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>JACKIE CHAN 24X7</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    LaylaHunt@armyspy.com/dwparfmj/5873.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    VilmundinaSigfusdottir@armyspy.com/ pjjjenem/5873.ts</link>
 <thumbnail>http://www.bluecatscreenplay.com/wp-content/uploads/2015/06/Jackie-chan.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>JET LI 24X7</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    LaylaHunt@armyspy.com/dwparfmj/6131.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    VilmundinaSigfusdottir@armyspy.com/ pjjjenem/6131.ts</link>
 <thumbnail>http://static.tvtropes.org/pmwiki/pub/images/jet-li2_5570.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CBS Action</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    LaylaHunt@armyspy.com/dwparfmj/7184.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    VilmundinaSigfusdottir@armyspy.com/ pjjjenem/7184.ts</link>
 <thumbnail>http://www.british-tv-anywhere.com/wp-content/uploads/CBS-Action.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CBS Drama</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    LaylaHunt@armyspy.com/dwparfmj/7186.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    VilmundinaSigfusdottir@armyspy.com/ pjjjenem/7186.ts</link>
 <thumbnail>http://satkurier.pl/uploads/44825.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CBS Reality</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    LaylaHunt@armyspy.com/dwparfmj/7187.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    VilmundinaSigfusdottir@armyspy.com/ pjjjenem/7187.ts</link>
 <thumbnail>http://www.watchallchannels.com/wp-content/uploads/2015/02/CBS-Reality-TV.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Cooking Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    LaylaHunt@armyspy.com/dwparfmj/6108.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    VilmundinaSigfusdottir@armyspy.com/ pjjjenem/6108.ts</link>
 <thumbnail>https://pbs.twimg.com/profile_images/707608054225833984/0oB_sFGh.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>5 Star Max</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/382.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/382.ts</link>
 <thumbnail>http://static.ontvtonight.com/static/2/Open/SourceLogos/400x300/5StarMax-HD.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Action</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/370.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/370.ts</link>
 <thumbnail>http://www.corusent.com/wp-content/uploads/2016/12/logo_tv_action_flame-500x250.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Action Max</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/383.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/383.ts</link>
 <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/action_max_us.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>AMC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/334.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/334.ts</link>
 <thumbnail>http://home.bt.com/images/amc-logo-136399633990403901-150807153713.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>ABC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/10.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/10.ts</link>
 <thumbnail>http://cimg.tvgcdn.net/i/r/2015/01/14/b6a68d87-4a4e-4559-a02c-0a6d0d47cb1a/thumbnail/1300x867/f13cdf13834a99f75a53f77ca625741c/150114-news-abc-logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CP24</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/11.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/11.ts</link>
 <thumbnail>http://gpinto.com/wp-content/uploads/2016/11/cp24.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CTV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/2398.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/2398.ts</link>
 <thumbnail>http://static.ctv.ca/get-bm-media/635978803631770556/5763dfaf-f3a4-4e15-9426-496994caf642/0/0</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CTV Halifax</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4074.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4074.ts</link>
 <thumbnail>https://pbs.twimg.com/profile_images/443036081118658560/j9spWnRr_400x400.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CBC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/18.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/18.ts</link>
 <thumbnail>http://www.cbc.ca/revenuegroup/assets_c/2013/02/cbc-logo-gallery-thumb-638xauto-275463.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CBC Halifax</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4075.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4075.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/CBC_Nova_Scotia.png/220px-CBC_Nova_Scotia.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -150,373 +150,373 @@
 </item>
 <item>
 <title>Discovery</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/319.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/319.ts</link>
 <thumbnail>http://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Discovery Science</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/320.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/320.ts</link>
 <thumbnail>http://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Fox</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/9.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/9.ts</link>
 <thumbnail>http://logonews.fr/wp-content/uploads/2013/05/fox-logo1_300x206.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>FXX</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/315.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/315.ts</link>
 <thumbnail>https://i.ytimg.com/vi/RJ1bM5E3ZNI/hqdefault.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Global</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/15.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/15.ts</link>
 <thumbnail>http://www.throng.ca/files/u1488/global_logoNEW.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Animal planet</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/332.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/332.ts</link>
 <thumbnail>http://allvectorlogo.com/img/2016/07/animal-planet-logo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Cinemax</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/380.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/380.ts</link>
 <thumbnail>http://files.on-tapp-networks.com/logos/arctic/Arctic%20Zephyr%20Logos/Cinemax.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>City Tv</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/14.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/14.ts</link>
 <thumbnail>http://cdn.realscreen.com/wp/wp-content/uploads/2012/01/citytv-logo.jpg?bd66ad</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CNBC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/364.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/364.ts</link>
 <thumbnail>http://www.hightoweradvisors.com/~/media/hightower/advisor%20sites/news%20site%20picture/cnbc-logo.ashx</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>BET</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/351.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/351.ts</link>
 <thumbnail>http://www.rapbasement.com/wp-content/uploads/2014/03/bet_logo_Ultimate_Freestyle_Friday.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>AandE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/347.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/347.ts</link>
 <thumbnail>https://pmcvariety.files.wordpress.com/2014/05/ae-a-and-e-logo.jpg?w=670&h=377&crop=1</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Bravo</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/353.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/353.ts</link>
 <thumbnail>http://seeklogo.com/images/B/bravo-logo-07CB28CA27-seeklogo.com.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CBS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/8.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/8.ts</link>
 <thumbnail>https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Comedy Central</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/316.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/316.ts</link>
 <thumbnail>http://logos-vector.com/images/logo/xxl/2/1/4/21482/Comedy_Central_550aa_450x450.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>The CW</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/359.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/359.ts</link>
 <thumbnail>https://www.brandeps.com/logo-download/T/The-CW-01.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Food Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/333.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/333.ts</link>
 <thumbnail>https://images.bwwstatic.com/tvnetworklogos/135E0BCF-04A9-D34F-C24B979B54E125EA.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>History</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/322.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/322.ts</link>
 <thumbnail>http://www.thewrap.com/wp-content/uploads/2016/01/history-logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Hallmark Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/321.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/321.ts</link>
 <thumbnail>https://lh5.ggpht.com/aVdJRXT2Tm0e9AVicbiocyrUDaA-sYosZDLdwgWAJLEjeMrr03HaeDJXdVsDsgUp7w=w300</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Hallmark Movies & Mysteries</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4599.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4599.ts</link>
 <thumbnail>http://www.mypremieronline.com/wp-content/uploads/hallmark-movies-and-mysteries_logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>HLN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/362.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/362.ts</link>
 <thumbnail>http://www.newscaststudio.com/wp-content/uploads/2014/10/hln-logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>HSN 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/3082.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/3082.ts</link>
 <thumbnail>http://www.direct-vs-dish.com/media/channel_logos/hsn2.jpg.300x300_q85.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Investigation Discovery</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/324.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/324.ts</link>
 <thumbnail>http://images.mi.tv/channels/ar_investigation-discovery_m.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Lifetime</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/325.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/325.ts</link>
 <thumbnail>https://i1.wp.com/www.underconsideration.com/brandnew/archives/lifetime_logo_detail.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>MoreMax</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/381.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/381.ts</link>
 <thumbnail>http://www.hboasiamail.com/newsletters/201407-v001/cinemax/images/more_max.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>MTV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/350.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/350.ts</link>
 <thumbnail>http://www.aiga.org/globalassets/migrated-images/uploadedimages/aiga/content/inspiration/corporate_awards/cla_mtv_640x455_.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Nat Geo</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/330.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/330.ts</link>
 <thumbnail>https://tingskathmanducom.files.wordpress.com/2016/03/nat-geo-logo.jpg?w=256</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Nat Geo Wild</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/331.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/331.ts</link>
 <thumbnail>http://ww1.prweb.com/prfiles/2013/06/27/10877463/PR-NatGeoWILD.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>OWN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/348.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/348.ts</link>
 <thumbnail>http://i.perezhilton.com/wp-content/uploads/2010/10/oprah_winfrey_network_logo__oPt.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Showcase</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/346.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/346.ts</link>
 <thumbnail>http://www.gmkfreelogos.com/logos/S/img/Showcase.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Showtime</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/385.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/385.ts</link>
 <thumbnail>https://images.bwwstatic.com/columnpic7/28B66774C-CCC0-2F75-6E1D1925D5B76786.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>HGTV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/335.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/335.ts</link>
 <thumbnail>http://videos.hgtv.com/etc/clientlibs/assets/images/hgtv/apple-touch-icon-180x180.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Lifetime Movie Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/326.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/326.ts</link>
 <thumbnail>http://web.ccsu.edu/mediaCenter/images/tv/lifetime-movie-network.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Spike</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/cjtsayqp/318.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/cjtsayqp/318.ts</link>
 <thumbnail>http://www.allwrestlingnews.com/wp-content/uploads/2013/07/Spike-TV-Logo-620x250.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>TBS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/317.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/317.ts</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/0d/76/b4/0d76b4a20b2310ee0c5eadb9eedd60c9.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Thriller Max</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/384.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/384.ts</link>
 <thumbnail>http://www.oceanic.com/wp-content/uploads/2014/02/ThrillerMax.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>TNT</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/341.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/341.ts</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/4/41/TNT_logo_2008.png/revision/latest?cb=20091120155408</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Travel Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/349.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/349.ts</link>
 <thumbnail>http://www.scrippsnetworksinteractive.com/newsroom/company-news/PublishingImages/POSTER-travelapril2016_638.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Tru Tv</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/340.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/340.ts</link>
 <thumbnail>http://www.getmemedia.com/public/ideas/Opp/14869/trutv.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Velocity</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/367.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/367.ts</link>
 <thumbnail>http://www.blogcdn.com/www.autoblog.com/media/2011/09/velocity-tv.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Viceland</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/323.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/323.ts</link>
 <thumbnail>https://image.roku.com/channels/images/3d6760e37f7249e88817b078b60ae065-hd.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>VH1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/354.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/354.ts</link>
 <thumbnail>https://image.roku.com/blog/wp-content/uploads/2016/04/VH1-logo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>WE Tv</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/342.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/342.ts</link>
 <thumbnail>http://www-deadline-com.vimg.net/wp-content/uploads/2014/06/wetv__140602182019.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 <item>
 <title>NBC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/7.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/7.ts</link>
 <thumbnail>http://cdn-6.famouslogos.us/images/nbc-logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>DIY Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/329.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/329.ts</link>
 <thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052016/untitled-1_241.png?itok=SoUhGGwX</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>E!</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/338.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/338.ts</link>
 <thumbnail>https://media.glassdoor.com/sqll/16794/e-entertainment-television-squarelogo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>FX</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/314.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/314.ts</link>
 <thumbnail>http://www.themarysue.com/wp-content/uploads/2016/08/FX-Logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>HBO Comedy</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/373.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/373.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/Hbo_comedy.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>HBO</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/371.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/371.ts</link>
 <thumbnail>http://www.wemw.it/wp-content/uploads/2016/03/hbo-1024x500.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>HBO Zone</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4828.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4828.ts</link>
 <thumbnail>http://www.ilovesatellitetv.com/images/hbo-zone-logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>HBO Signature</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/372.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/372.ts</link>
 <thumbnail>http://gmkfreelogos.com/logos/H/img/HBO_Signature.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Starz Black</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/378.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/378.ts</link>
 <thumbnail>http://www.ranthollywood.com/wp-content/uploads/2015/09/StarzInBlack.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Starz Comedy</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/376.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/376.ts</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/d/dd/Starz_Comedy_HD.png/revision/latest?cb%5Cx3d20110410040852</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Starz Edge</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/377.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/377.ts</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/5/58/Starz_Edge.jpg/revision/latest?cb=20100919034216</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Starz Kids & Family</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/375.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/375.ts</link>
 <thumbnail>https://www.starz.com/guides/starzlibrary/images/logo_starzkidsfamily_b.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Starz</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/374.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/374.ts</link>
 <thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0019/4748/brand.gif?itok=3qe7Utdk</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Syfy</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/39.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/39.ts</link>
 <thumbnail>http://www.nbcunicareers.com/sites/default/files/styles/grid_logo/public/content/business-unit/logo/NBC_Bus_Icons_SYFY.png?itok=gSEWd0m_</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Sky Disney</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/1745.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/1745.ts</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/disney/images/c/ce/Media-sky-movies-disney_1.jpg/revision/latest?cb=20130324202349</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>TLC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/328.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/328.ts</link>
 <thumbnail>http://bloodstonemediagroup.com/wp-content/uploads/2015/08/TLC_Logo_Cake_Boss_edited-1.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>TV Land</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/313.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/313.ts</link>
 <thumbnail>http://3.bp.blogspot.com/-nk-J7sitdyM/Tw53EcbcV2I/AAAAAAAADxk/8ml5Mbv-9Qc/s1600/TV+Land+logo+2011.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>The Weather Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/3080.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/3080.ts</link>
 <thumbnail>https://lh6.ggpht.com/hGnzb0TzcUKDC63BIxs-x0wig5iq7SJd7F1iSRBywX3fbKyLoMDZWAsJJNxyOx9F1rUk=w300</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>USA Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/312.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/312.ts</link>
 <thumbnail>https://images.bwwstatic.com/columnpic6/24BBCD1DC-0C7F-5F83-A9B18707E9842A5E.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <item>
 <title>Yes Tv</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/6962.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/6962.ts</link>
 <thumbnail>http://media.zuza.com/2/a/2ad9fd00-c0a8-4c5e-998e-291ad924e4fe/Logo_Apr2015_IYN___Content.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -528,31 +528,31 @@
 </item>
 <item>
 <title>BBC World News</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4856.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4856.ts</link>
 <thumbnail>https://sites.google.com/site/immiszalik/_/rsrc/1472847832919/2-miznarodni-agenciie-novin-cnn-vvs-reuters-ta-insi/BBC_WorldNews_Stack_Rev_RGB%20%281%29.jpg?height=149&width=200</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CNN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/360.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/360.ts</link>
 <thumbnail>http://bammarijuana.com/wp-content/uploads/2016/02/CNN-International-Logo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CBC News</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/361.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/361.ts</link>
 <thumbnail>http://www.cbc.ca/revenuegroup/assets_c/2013/02/cbcnn-logo-gallery-thumb-638xauto-275462.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CTV News</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/2423.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/2423.ts</link>
 <thumbnail>https://www.brandeps.com/logo-download/C/CTV-News-01.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>MSNBC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/365.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/365.ts</link>
 <thumbnail>http://fontmeme.com/images/MSNBC-Logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -570,560 +570,560 @@
 </item>
 <item>
 <title>Fox News</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/363.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/363.ts</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/67/Fox_News_Channel_logo.svg/revision/latest/scale-to-width-down/200?cb=20091120214359</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Fox Business</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4600.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4600.ts</link>
 <thumbnail>https://pbs.twimg.com/profile_images/699974743751929856/nf8OCM2A.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>ESPN News</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4065.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4065.ts</link>
 <thumbnail>http://www.ilovesatellitetv.com/images/espn-news-logo.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Sky Sports News</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/203.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/203.ts</link>
 <thumbnail>http://andylamb.co.uk/andyh/img/carousel/logo_skysportsnews.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Univision (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/412.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/412.ts</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/98/7e/06/987e0642c10a6219b5b68fd11506e436.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Telemundo (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/415.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/415.ts</link>
 <thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/032013/tm_master_large_id_rgb_reverse.png?itok=OU-NDXlb</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Unimas (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/425.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/425.ts</link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/unimas_logo_detail.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Galavision (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/414.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/414.ts</link>
 <thumbnail>http://www.elpoderdelasideas.com/wp-content/uploads/galavision_logo_detail-550x516.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NBC Universo (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/417.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/417.ts</link>
 <thumbnail>https://tvbtn.files.wordpress.com/2015/01/9674f67980ac55aa_org1.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Mega (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/418.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/418.ts</link>
 <thumbnail>http://d1fudqwz3bcgie.cloudfront.net/sites/elrepuertero.cl/files/imagecache/380x285/imagen_noticia/mega_nuevo_logo_3.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>HBO East (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/420.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/420.ts</link>
 <thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0000/4304/brand.gif?itok=z82ODVAr</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CINEMAX (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/419.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/419.ts</link>
 <thumbnail>https://seeklogo.com/images/C/cinemax-logo-45F30CC760-seeklogo.com.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>PELICULAS (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/421.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/421.ts</link>
 <thumbnail>http://www.cocoua.es/imagenes/com.stream.phd.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>UNIVISION DEPORTES (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/423.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/423.ts</link>
 <thumbnail>http://image.cdnllnwnl.xosnetwork.com/pics33/200/RL/RLRFJJPNJXAWGVO.20140411135729.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CNN (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/429.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/429.ts</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/4/47/CNN_International_logo_2014.png/revision/latest?cb=20140910201936</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Discovery (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/430.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/430.ts</link>
 <thumbnail>https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>History (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/431.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/431.ts</link>
 <thumbnail>http://convergecom.com.br/wp-content/uploads/2016/11/History_Channel_2015_logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>BEIN DEPORTES (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/433.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/433.ts</link>
 <thumbnail>http://news.directv.com/wp-content/uploads/2013/08/bein_sport.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>ESPN DEPORTES (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/432.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/432.ts</link>
 <thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052016/untitled-1_242.png?itok=vy3l2HxD</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>FOX DEPORTES (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/436.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/436.ts</link>
 <thumbnail>http://www.adamrjacobson.com/wp-content/uploads/2010/06/FOX_DEPORTES_DARK-BLUE-e1283301380766.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>AND 1 24x7</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/7833.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/7833.ts</link>
 <thumbnail>http://www.officialpsds.com/images/thumbs/And-1-psd4077.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>The Dude Perfect Show 24x7</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/5871.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/5871.ts</link>
 <thumbnail>https://lh3.googleusercontent.com/8yFuJTCS-Ue6sTsWB2ng-Mq9MvEFz4yetI05cE9u1-z5UrwoiU_XvetjdeTg9MnkThke=w1264</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>LFC TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/221.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/221.ts</link>
 <thumbnail>https://pbs.twimg.com/profile_images/529559315049238528/_Y6PqLxc.jpeg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>ESPN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/143.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/143.ts</link>
 <thumbnail>http://4.bp.blogspot.com/-3BAZNrGtyB0/UrTCXJGbjbI/AAAAAAAAD0U/RL4ZjFt4naM/s1600/Logo+ESPN+HD+By+Bauti.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>ESPN 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/144.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/144.ts</link>
 <thumbnail>http://images.mi.tv/channels/co_espn-2_m.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>OSN Cricket</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4186.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4186.ts</link>
 <thumbnail>http://static.osnplay.com/images/2017/6/14/landscape745x419/0147_SP2-CH04-LI_landscape_745_419.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>OSN Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4187.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4187.ts</link>
 <thumbnail>http://3.bp.blogspot.com/--evHsMpA7T4/U5aW_VJI-2I/AAAAAAAAAHg/w3vlyFqGeJQ/s1600/_%D8%AA%D8%B1%D8%AF%D8%AF_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%88_%D8%A7%D8%B3_.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>OSN Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4188.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4188.ts</link>
 <thumbnail>http://2.bp.blogspot.com/-bLxj8pEPVo8/U5aXYFfRJOI/AAAAAAAAAH4/LFwP3h_zMYM/s1600/osn_sports2_hd.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>OSN Sports 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4189.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4189.ts</link>
 <thumbnail>http://1.bp.blogspot.com/-QXHBAhcIbL0/U5aXnblBKNI/AAAAAAAAAIA/jeIj8eI5TEg/s1600/osn_sports3.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>OSN Sports 4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4190.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4190.ts</link>
 <thumbnail>http://1.bp.blogspot.com/-CbqoNrpMH0I/U5aX7WUN9HI/AAAAAAAAAII/Vlb8-ShvDOs/s1600/osn_sports4.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>SPORTSNET 360</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/147.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/147.ts</link>
 <thumbnail>http://www.nor-del.com/images/Channels/sportsnet_360.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>SPORTSNET ONE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/149.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/149.ts</link>
 <thumbnail>https://stream4television.files.wordpress.com/2014/03/a45f2-sportsnet_one.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>SPORTSNET ONT</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/148.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/148.ts</link>
 <thumbnail>http://www.tgo-tv.net/images/tv/sn-ontario.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>SPORTSNET PACIFIC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/2434.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/2434.ts</link>
 <thumbnail>https://vignette4.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>SPORTSNET WORLD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/150.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/150.ts</link>
 <thumbnail>http://web.compton.net/images/Sportsnet_world.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Bein Sports</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/171.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/171.ts</link>
 <thumbnail>http://anywhere.fm/wp-content/uploads/bein-sports.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>ESPN U</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4064.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4064.ts</link>
 <thumbnail>http://c767204.r4.cf2.rackcdn.com/536b3646-abaf-449e-bae4-b584b92215ff.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Bien Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4814.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4814.ts</link>
 <thumbnail>http://allfootballvideo.com/images/channel-logo/Bein-Sports-1-300x172.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Bien Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4813.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4813.ts</link>
 <thumbnail>http://myarabicpack.com/channels/logo/bein-sports-2-hd.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Bien Sports 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4812.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4812.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BeIN_Sports_3_HD.png/240px-BeIN_Sports_3_HD.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Bien Sports 4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4811.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4811.ts</link>
 <thumbnail>http://www.liveonlinetv247.info/images/beinsports4.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Bien Sports 5</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4810.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4810.ts</link>
 <thumbnail>http://www.liveonlinetv247.info/images/beinsports5.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Bien Sports 6</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4809.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4809.ts</link>
 <thumbnail>http://www.liveonlinetv247.info/images/beinsports6.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Bien Sports 7</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4808.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4808.ts</link>
 <thumbnail>http://kooora4you.com/images/min/bein%20sport%207hd.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Bien Sports 8</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4807.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4807.ts</link>
 <thumbnail>http://www.liveonlinetv247.info/images/beinsports8.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Bien Sports 9</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4806.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4806.ts</link>
 <thumbnail>http://4.bp.blogspot.com/-hlTGuhqbPco/VkjkXy1PrWI/AAAAAAAAAnE/BCJ1uWDzjaY/s1600/bn%2Bsport9.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 </item>
 <item>
 <title>Bien Sports 10</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/4805.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/4805.ts</link>
 <thumbnail>http://www.liveonlinetv247.info/images/beinsports10.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>MLB 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/159.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/159.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/250px-MLB_Extra_Innings.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>MLB 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/160.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/160.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/250px-MLB_Extra_Innings.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>MLB 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/161.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/161.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/250px-MLB_Extra_Innings.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>MLB 4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/162.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/162.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/250px-MLB_Extra_Innings.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>MLB 5</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/163.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/163.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/250px-MLB_Extra_Innings.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>MLB 6</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/164.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/164.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/250px-MLB_Extra_Innings.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>MLB 7</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/2190.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/2190.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/250px-MLB_Extra_Innings.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>MLB 8</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/2191.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/2191.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/250px-MLB_Extra_Innings.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>MLB 9</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/2192.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/2192.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/250px-MLB_Extra_Innings.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>MLB Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/2193.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/2193.ts</link>
 <thumbnail>http://www.performancepitching.net/image/93476401_scaled_201x209.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Big 10 Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/3950.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/3950.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Fox Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/145.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/145.ts</link>
 <thumbnail>https://thepreserve18.com/wp-content/uploads/2016/05/fox-sports1.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Fox Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/146.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/146.ts</link>
 <thumbnail>http://3.bp.blogspot.com/-Wb2cPPXwOw8/VN05O6NlxeI/AAAAAAAAADA/-fCm9QQHddQ/s1600/foxsp2-2015.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NBA TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/165.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/165.ts</link>
 <thumbnail>http://www.3sayi.com/wp-content/uploads/2011/01/Nbatv-200x200.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NBC Golf</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/166.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/166.ts</link>
 <thumbnail>https://pbs.twimg.com/profile_images/785574290120998912/VXtCxyNs.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NBC Sport Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/170.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/170.ts</link>
 <thumbnail>https://images.bwwstatic.com/columnpic6/32294E6E-C3AA-3037-716657DF0A35AE55.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NFL Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/157.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/157.ts</link>
 <thumbnail>http://pixel.nymag.com/imgs/daily/sports/2012/08/16/17-nfl-network-logo.w190.h190.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NHL Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/156.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/156.ts</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/a/ae/Md_nhl_logo.jpg/revision/latest?cb=20150903001526</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CBS Sports Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/169.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/169.ts</link>
 <thumbnail>https://cbsnewyork.files.wordpress.com/2011/08/cbs-sports-logo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>BT Espn</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/233.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/233.ts</link>
 <thumbnail>http://seenit.co.uk/wp-content/uploads/BT-ESPN.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>At The Races</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/2197.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/2197.ts</link>
 <thumbnail>http://equuslive.com/wp-content/uploads/2013/03/ATR-Logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>BoxNation</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/209.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/209.ts</link>
 <thumbnail>https://pbs.twimg.com/profile_images/523395738181439488/ZSdNbxJ3_400x400.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Sky Sports Mix</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/194.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/194.ts</link>
 <thumbnail>http://static.trustedreviews.com/94/00003824b/9dba/sky-sports-mix.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Sky Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/204.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/204.ts</link>
 <thumbnail>http://footballontv.com/img/channels/square-300/Sky-Sports-1.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Sky Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/205.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/205.ts</link>
 <thumbnail>http://www.livetv21.net/wp-content/uploads/2016/02/sky-sports-2-live-mykora.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Sky Sports 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/206.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/206.ts</link>
 <thumbnail>http://www.livecricketcentral.com/images/channels/logos/sky-sports-3.gif</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Sky Sports 4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/207.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/207.ts</link>
 <thumbnail>http://www.liveonlinetv247.info/images/skysports4.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Sky Sports 5</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/208.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/208.ts</link>
 <thumbnail>http://images.atlas.metabroadcast.com/pressassociation.com/channels/p2201408121889.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Sky Sports F1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/210.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/210.ts</link>
 <thumbnail>https://pbs.twimg.com/profile_images/502483207267164160/wyV8wUFV.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Tennis Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/167.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/167.ts</link>
 <thumbnail>https://tennisatlantic.files.wordpress.com/2012/07/tennischannellogo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>BT Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/225.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/225.ts</link>
 <thumbnail>http://oklivetv.com/wp-content/uploads/media/bt-sport-1-logo.jpeg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>BT Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/226.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/226.ts</link>
 <thumbnail>http://oklivetv.com/wp-content/uploads/media/bt-sport-2-logo.jpeg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>TSN Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/138.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/138.ts</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/3/30/TSN1.png/revision/latest?cb=20140901045701</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>TSN Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/139.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/139.ts</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/f/fb/TSN2_logo.png/revision/latest?cb=20140901043550</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>TSN Sports 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/140.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/140.ts</link>
 <thumbnail>http://www.nwtel.ca/sites/default/files/media/channel-logos/tsn3_0.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>TSN Sports 4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/141.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/141.ts</link>
 <thumbnail>http://contact.sourcecable.ca/wp-content/uploads/2015/05/TSN4_CMYK.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>TSN Sports 5</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/142.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/142.ts</link>
 <thumbnail>http://contact.sourcecable.ca/wp-content/uploads/2015/05/TSN5_CMYK.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>WWE Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/168.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/168.ts</link>
 <thumbnail>http://4.bp.blogspot.com/-lJR1aUCx4vo/VQp0Xbp_2kI/AAAAAAAAOLY/NJQyPNWJDP8/s1600/WWE-logo-400-700x351.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Cartoon Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/395.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/395.ts</link>
 <thumbnail>http://www.cartoonnetwork.com/static/images/global/ogLogo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/392.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/392.ts</link>
 <thumbnail>https://tvbtn.files.wordpress.com/2014/05/image1-350x197.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Nick</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/394.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/394.ts</link>
 <thumbnail>http://www.shescribes.com/wp-content/uploads/2016/01/Nickelodeon-logo1.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Disney XD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/397.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/397.ts</link>
 <thumbnail>http://fontmeme.com/images/disney-xd-logo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Peachtree</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/337.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/337.ts</link>
 <thumbnail>https://cmgajcradiotvtalk.files.wordpress.com/2017/02/peachtree-tv-logo.png?w=492</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Teletoon</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/2422.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/2422.ts</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/3/36/T%C3%A9l%C3%A9toon_logo_2004.png/revision/latest?cb=20100419151545</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Treehouse</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/393.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/393.ts</link>
 <thumbnail>https://static1.squarespace.com/static/56e1f5ef746fb9aeaa8d8b29/5702a1d9e321408302d96779/5702a710b6aa607cbb96a6e9/1459791652428/Treehouse_logo.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>YTV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     LaylaHunt@armyspy.com/dwparfmj/390.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     VilmundinaSigfusdottir@armyspy.com/ pjjjenem/390.ts</link>
 <thumbnail>http://www.cablecable.net/files/1213/9569/2655/328px-YTV_logo_svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
