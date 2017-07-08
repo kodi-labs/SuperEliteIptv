@@ -1,4 +1,18 @@
 <item>
+<title>Cars</title>
+<link>http://dl2.heydl.org/film/2017-3/Cars.2006.1080p.HeyDL.mkv</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_.jpg</thumbnail>
+<fanart>http://wallpapercave.com/wp/GKoQ3DH.jpg</fanart>
+<info>A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.</info>
+</item>
+<item>
+<title>Cars 2</title>
+<link>http://dl2.heydl.org/film/2017-3/Cars.2.2011.1080p.HeyDL.mkv</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://images5.alphacoders.com/364/364327.jpg</fanart>
+<info>Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.</info>
+</item>
+<item>
 <title>Ice Age: Collision Course</title>
 <link>http://dl2.heydl.org/film/2016-9/Ice.Age.Collision.Course.2016.1080p.6CH.HeyDL.mkv</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMTk2ODc1OV5BMl5BanBnXkFtZTgwMzU4MzgzOTE@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
@@ -11,6 +25,13 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_.jpg</thumbnail>
 <fanart>http://www.kungfupandamovie-ph.com/img/main/background.jpg</fanart>
 <info>Continuing his "legendary adventures of awesomeness", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to his home.</info>
+</item>
+<item>
+<title>Moana</title>
+<link>http://dl2.heydl.org/film/2017-2/Moana.2016.1080p.6CH.HeyDL.mkv</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://wallpapercave.com/wp/wc1810076.jpg</fanart>
+<info>In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the Demigod to set things right.</info>
 </item>
 <item>
 <title>Penguins of Madagascar</title>
