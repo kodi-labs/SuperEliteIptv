@@ -6,7 +6,7 @@
 </item>
 <item>
 <title>Star Wars: The Clone Wars 24x7</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    HarryCKorn@rhyta.com/ygsmdwwh/7835.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    rexreal@gmail.com/eyazkcja/7835.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/02/Star_Wars_The_Clone_Wars.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
