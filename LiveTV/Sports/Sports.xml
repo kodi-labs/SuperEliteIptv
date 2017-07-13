@@ -115,7 +115,7 @@
 <item>
 <title>SPORTSNET ONT</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    AudreyDSolem@armyspy.com/rdkpbmqu/148.ts</link>
-<thumbnail>http://www.tgo-tv.net/images/tv/sn-ontario.png</thumbnail>
+<thumbnail>https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/SportsnetOntarioHD.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
@@ -290,13 +290,13 @@
 <item>
 <title>NBC Golf</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    AudreyDSolem@armyspy.com/rdkpbmqu/166.ts</link>
-<thumbnail>https://pbs.twimg.com/profile_images/785574290120998912/VXtCxyNs.jpg</thumbnail>
+<thumbnail>http://carbonputters.com/wp-content/uploads/2016/01/golf-channel.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>NBC Sport Network</title>
+<title>NBC Sports Network</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    AudreyDSolem@armyspy.com/rdkpbmqu/170.ts</link>
-<thumbnail>https://images.bwwstatic.com/columnpic6/32294E6E-C3AA-3037-716657DF0A35AE55.jpg</thumbnail>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
