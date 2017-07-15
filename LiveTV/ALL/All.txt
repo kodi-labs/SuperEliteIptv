@@ -347,6 +347,12 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
+<title>Slice</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/343.ts</link>
+<thumbnail>https://tvdeets.com/media/2016/03/slice-logo.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
 <title>TBS</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/317.ts</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/0d/76/b4/0d76b4a20b2310ee0c5eadb9eedd60c9.jpg</thumbnail>
