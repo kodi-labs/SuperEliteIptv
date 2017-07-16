@@ -600,98 +600,98 @@
 </item>
 <item>
 <title>Univision (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/412.ts</link>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/98/7e/06/987e0642c10a6219b5b68fd11506e436.jpg</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    RichardDLeclair@jourrapide.com/hgbbmvea/412.ts</link>
+<thumbnail>https://22958-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2017/04/univision_logo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Telemundo (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/415.ts</link>
-<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/032013/tm_master_large_id_rgb_reverse.png?itok=OU-NDXlb</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    RichardDLeclair@jourrapide.com/hgbbmvea/415.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/2000px-Telemundo_logo_2012.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Unimas (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/425.ts</link>
-<thumbnail>http://www.underconsideration.com/brandnew/archives/unimas_logo_detail.gif</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    RichardDLeclair@jourrapide.com/hgbbmvea/425.ts</link>
+<thumbnail>https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Galavision (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/414.ts</link>
-<thumbnail>http://www.elpoderdelasideas.com/wp-content/uploads/galavision_logo_detail-550x516.gif</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    RichardDLeclair@jourrapide.com/hgbbmvea/414.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/2000px-Galavision_Logo_2013.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>NBC Universo (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/417.ts</link>
-<thumbnail>https://tvbtn.files.wordpress.com/2015/01/9674f67980ac55aa_org1.jpg</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    RichardDLeclair@jourrapide.com/hgbbmvea/417.ts</link>
+<thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2015/07/nbcu_logo_black_f.png?w=573</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Mega (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/418.ts</link>
-<thumbnail>http://d1fudqwz3bcgie.cloudfront.net/sites/elrepuertero.cl/files/imagecache/380x285/imagen_noticia/mega_nuevo_logo_3.jpg</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    RichardDLeclair@jourrapide.com/hgbbmvea/418.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2015megaoficial.png/1200px-2015megaoficial.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>HBO East (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/420.ts</link>
-<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0000/4304/brand.gif?itok=z82ODVAr</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    RichardDLeclair@jourrapide.com/hgbbmvea/420.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CINEMAX (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/419.ts</link>
-<thumbnail>https://seeklogo.com/images/C/cinemax-logo-45F30CC760-seeklogo.com.gif</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    RichardDLeclair@jourrapide.com/hgbbmvea/419.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>PELICULAS (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/421.ts</link>
-<thumbnail>http://www.cocoua.es/imagenes/com.stream.phd.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    RichardDLeclair@jourrapide.com/hgbbmvea/421.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>UNIVISION DEPORTES (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/423.ts</link>
-<thumbnail>http://image.cdnllnwnl.xosnetwork.com/pics33/200/RL/RLRFJJPNJXAWGVO.20140411135729.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    RichardDLeclair@jourrapide.com/hgbbmvea/423.ts</link>
+<thumbnail>http://www.deltatre.com/wp-content/uploads/2014/02/300px-black.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>CNN (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/429.ts</link>
-<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/4/47/CNN_International_logo_2014.png/revision/latest?cb=20140910201936</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    RichardDLeclair@jourrapide.com/hgbbmvea/429.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/1280px-Cnn.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Discovery (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/430.ts</link>
-<thumbnail>https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.jpg</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    RichardDLeclair@jourrapide.com/hgbbmvea/430.ts</link>
+<thumbnail>http://logok.org/wp-content/uploads/2014/04/Discovery-Channel-logo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>History (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/431.ts</link>
-<thumbnail>http://convergecom.com.br/wp-content/uploads/2016/11/History_Channel_2015_logo.jpg</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    RichardDLeclair@jourrapide.com/hgbbmvea/431.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/2000px-History_Logo_2008-2015.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>BEIN DEPORTES (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/433.ts</link>
-<thumbnail>http://news.directv.com/wp-content/uploads/2013/08/bein_sport.jpg</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    RichardDLeclair@jourrapide.com/hgbbmvea/433.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_español_logo.svg/1000px-Bein_Sport_en_español_logo.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>ESPN DEPORTES (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/432.ts</link>
-<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052016/untitled-1_242.png?itok=vy3l2HxD</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    RichardDLeclair@jourrapide.com/hgbbmvea/432.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>FOX DEPORTES (ES)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      RichardDLeclair@jourrapide.com/hgbbmvea/436.ts</link>
-<thumbnail>http://www.adamrjacobson.com/wp-content/uploads/2010/06/FOX_DEPORTES_DARK-BLUE-e1283301380766.jpg</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/    RichardDLeclair@jourrapide.com/hgbbmvea/436.ts</link>
+<thumbnail>http://www.ranklogos.com/wp-content/uploads/2015/01/Fox-Deportes-Logo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
