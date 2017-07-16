@@ -45,7 +45,7 @@
 
 <channel>
 <name>Spanish</name>
-<thumbnail>http://www.ibiza-hotels.com/tour_guide/spanish_logo.gif</thumbnail>
+<thumbnail>http://p3cdn4static.sharpschool.com/UserFiles/Servers/Server_805114/Image/espanol_16701833_std.gif</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/Spanish/Spanish.xml</externallink>
 <fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
 <info> </info>
