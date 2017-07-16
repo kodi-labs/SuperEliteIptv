@@ -528,7 +528,7 @@
 </item>
 <item>
 <title>ABC News</title>
-<link>http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     RichardDLeclair@jourrapide.com/hgbbmvea/3077.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/f/fa/ABCNewsLogo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -563,14 +563,14 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
-<title>RT Today</title>
-<link>http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8</link>
+<title>RT News</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     RichardDLeclair@jourrapide.com/hgbbmvea/512.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>France 24</title>
-<link>http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     RichardDLeclair@jourrapide.com/hgbbmvea/4796.ts</link>
 <thumbnail>http://casbaa.com/wordpress/wp-content/uploads/2015/06/member-logo-france24.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
