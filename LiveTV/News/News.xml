@@ -7,7 +7,7 @@
 <item>
 <title>BBC World News</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     RichardDLeclair@jourrapide.com/hgbbmvea/4856.ts</link>
-<thumbnail>https://5aea4c9529ba75ad03d28927-lkaef0prs.netdna-ssl.com/wp-content/uploads/2012/01/Bbc_world_news_logo_hd1.png</thumbnail>
+<thumbnail>https://static1.squarespace.com/static/55e04aa1e4b0e924d8150668/5608c04be4b013120ad2d98d/5608c058e4b090d1a006350f/1443414104291/Bbc_world_news_logo_hd1.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
@@ -31,13 +31,13 @@
 <item>
 <title>MSNBC</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     RichardDLeclair@jourrapide.com/hgbbmvea/365.ts</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/MSNBC_2008_logo.svg/2000px-MSNBC_2008_logo.svg.png</thumbnail>
+<thumbnail>http://www.msnbc.com/sites/msnbc/themes/leanforward/images/site-header/msnbc-logo-card-twitter.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>RT Today</title>
 <link>http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8</link>
-<thumbnail>http://www.apkmirror.com/wp-content/uploads/2016/09/57e6d84ba214f.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
@@ -49,7 +49,7 @@
 <item>
 <title>Fox News</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/     RichardDLeclair@jourrapide.com/hgbbmvea/363.ts</link>
-<thumbnail>http://az616578.vo.msecnd.net/files/2016/05/26/635998887778834636382456474_fox%20logo.png</thumbnail>
+<thumbnail>http://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2013/07/FOX_NEWS_CHANNEL_LOGO_USE.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
