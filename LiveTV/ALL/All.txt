@@ -138,7 +138,7 @@
 </item>
 <item>
 <title>CBC Halifax</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      SophieTeichelmann@jourrapide.com/uybmadkr/4075.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      SophieTeichelmann@jourrapide.com/uybmadkr/4074.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/CBC_Nova_Scotia.png/220px-CBC_Nova_Scotia.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -485,7 +485,7 @@
 </item>
 <item>
 <title>Syfy</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      SophieTeichelmann@jourrapide.com/uybmadkr/39.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      SophieTeichelmann@jourrapide.com/uybmadkr/339.ts</link>
 <thumbnail>http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
