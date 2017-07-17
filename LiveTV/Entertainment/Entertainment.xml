@@ -90,7 +90,7 @@
 </item>
 <item>
 <title>Action</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      SophieTeichelmann@jourrapide.com/uybmadkr/370.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   SophieTeichelmann@jourrapide.com/uybmadkr/370.ts</link>
 <thumbnail>http://www.corusent.com/wp-content/uploads/2016/12/logo_tv_action_flame-500x250.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -126,7 +126,7 @@
 </item>
 <item>
 <title>CTV Halifax</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      SophieTeichelmann@jourrapide.com/uybmadkr/4074.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   SophieTeichelmann@jourrapide.com/uybmadkr/4074.ts</link>
 <thumbnail>https://static1.squarespace.com/static/525eb9a5e4b0fe5f668ae43c/54b82ff2e4b06856871170c2/54b82ff3e4b06856871170cd/1421357043951/CTV.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -138,13 +138,13 @@
 </item>
 <item>
 <title>CBC Halifax</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      SophieTeichelmann@jourrapide.com/uybmadkr/4075.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      SophieTeichelmann@jourrapide.com/uybmadkr/4074.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/CBC_Nova_Scotia.png/220px-CBC_Nova_Scotia.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
 <title>Destination America</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/JudyKJordan@jourrapide.com/wjjpwkqn/7482.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/SophieTeichelmann@jourrapide.com/uybmadkr/7482.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/63/Destination_America_logo_2017.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -473,7 +473,7 @@
 </item>
 <item>
 <title>Starz Kids & Family</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      SophieTeichelmann@jourrapide.com/uybmadkr/375.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/SophieTeichelmann@jourrapide.com/uybmadkr/375.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Starz_Kids_%26_Family_HD_logo.svg/2000px-Starz_Kids_%26_Family_HD_logo.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
@@ -485,7 +485,7 @@
 </item>
 <item>
 <title>Syfy</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      SophieTeichelmann@jourrapide.com/uybmadkr/39.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/      SophieTeichelmann@jourrapide.com/uybmadkr/339.ts</link>
 <thumbnail>http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
