@@ -323,6 +323,24 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
+<title>Space</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/        PeggyRHolter@dayrep.com/qgcnbxkw/8110.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Space_logo_2013.svg/1200px-Space_logo_2013.svg.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>Showtime</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/        PeggyRHolter@dayrep.com/qgcnbxkw/385.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Showtime-Logo.svg/2000px-Showtime-Logo.svg.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>Showtime Showcase</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/        PeggyRHolter@dayrep.com/qgcnbxkw/386.ts</link>
+<thumbnail>http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/showcase-logomarch2015.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
 <title>Showcase</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/        PeggyRHolter@dayrep.com/qgcnbxkw/346.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/2000px-Showtime%27s_Showcase_logo.svg.png</thumbnail>
