@@ -1194,7 +1194,7 @@
 <item>
 <title>Nick</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok1.se:8000/live/       RafaelFWelch@teleworm.us/pebscurf/394.ts</link>
-<thumbnail>http://www.interpretllc.com/wp-content/uploads/2014/02/nickelodeon.png</thumbnail>
+<thumbnail>http://i0.kym-cdn.com/photos/images/original/001/099/183/225</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
