@@ -385,7 +385,7 @@
 <item>
 <title>TNT</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok1.se:8000/live/         RafaelFWelch@teleworm.us/pebscurf/341.ts</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/18/TNT_NV_logo.svg/1280px-TNT_NV_logo.svg.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TNT_Logo.svg/2000px-TNT_Logo.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
@@ -542,8 +542,8 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok1.se:8000/live/         RafaelFWelch@teleworm.us/pebscurf/6962.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/YesTV_Canada.svg/2000px-YesTV_Canada.svg.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
- </item>
- <item>
+</item>
+<item>
 <title>ABC News</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok1.se:8000/live/        RafaelFWelch@teleworm.us/pebscurf/3077.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/f/fa/ABCNewsLogo.png</thumbnail>
