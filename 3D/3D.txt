@@ -27,11 +27,32 @@
 <info>A former neurosurgeon embarks on a journey of healing only to be drawn into the world of the mystic arts.</info>
 </item>
 <item>
+<title>Guardians of the Galaxy</title>
+<link>http://dl2.heyserver.in/film/2016-4/1/Guardians.of.the.Galaxy.2014.1080p.3D.HSBS.6CH.HeyDL.mkv</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://images5.alphacoders.com/520/520015.jpg</fanart>
+<info>A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.</info>
+</item>
+<item>
 <title>Iron Man 3</title>
 <link>http://dl2.heydl.org/film/2016-5-/Iron.Man.3.2013.1080p.3D.HSBS.HeyDL.mp4</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzMjEzMjY1M15BMl5BanBnXkFtZTcwNTMxOTYyOQ@@._V1_SY1000_SX700_AL_.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/4XJ07onCqAs/maxresdefault.jpg</fanart>
 <info>When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.</info>
+</item>
+<item>
+<title>Kong: Skull Island</title>
+<link>http://dl2.heyserver.in/film/2017-7/Kong.Skull.Island.2017.3D.1080p.6CH.HeyDL.mkv</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMzI5ODEwNF5BMl5BanBnXkFtZTgwNjAzNjI2MDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://www.hdwallpapers.in/walls/kong_skull_island_4k_2017-wide.jpg</fanart>
+<info>A team of scientists explore an uncharted island in the Pacific, venturing into the domain of the mighty Kong, and must fight to escape a primal Eden.</info>
+</item>
+<item>
+<title>Passengers</title>
+<link>http://dl2.heyserver.in/film/2017-3/Passengers.2016.3D.1080p.6CH.HeyDL.mkv</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4MjU3MDIzOF5BMl5BanBnXkFtZTgwMjM2MzY2MDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://www.hdwallpapers.in/walls/passengers_2016_movie-wide.jpg</fanart>
+<info>A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.</info>
 </item>
 <item>
 <title>Thor</title>
