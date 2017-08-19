@@ -113,6 +113,12 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
+<title>ASPIRE TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/           supercool@gmail.com/rhzkmxfd/8481.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/6a/Aspire_%28TV_network%29_Logo.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
 <title>CP24</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/           supercool@gmail.com/rhzkmxfd/11.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/b8/CP24_Channel.png</thumbnail>
@@ -164,6 +170,12 @@
 <title>Fox</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/           supercool@gmail.com/rhzkmxfd/9.ts</link>
 <thumbnail>https://vignette2.wikia.nocookie.net/gotham-inc/images/8/81/Fox_Network.png/revision/latest?cb=20140924014252</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>Fox Movie Channel</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/           supercool@gmail.com/rhzkmxfd/8482.ts</link>
+<thumbnail>http://media.lasierra.edu/programs/Extron/GUI%20Configurator%20Templates/Resources/Jet/Icons/TV%20Icons/fox-movie-channel.png</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
