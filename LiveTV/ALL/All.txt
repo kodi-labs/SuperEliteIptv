@@ -580,6 +580,12 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
 </item>
 <item>
+<title>THE BLAZE</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/          jackreedgrey@gmail.com/bzdygmem/8689.ts</link>
+<thumbnail>http://www.aimedalliance.org/wp-content/uploads/2015/11/the-blaze-logo.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
 <title>ABC News</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/         jackreedgrey@gmail.com/bzdygmem/3077.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/f/fa/ABCNewsLogo.png</thumbnail>
